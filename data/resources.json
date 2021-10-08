@@ -375,5 +375,17 @@
     "description": "A Svelte action that monitors an element enters or leaves the viewport.",
     "repo": "https://github.com/maciekgrzybek/svelte-inview",
     "demo": "https://svelte-inview.netlify.app/"
+  },
+  {
+    "id": 32,
+    "title": "Svelte Ruler",
+    "slug": "svelte-ruler",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "A Svelte Ruler component that can draw grids and scroll infinitely.",
+    "repo": "https://github.com/daybrush/ruler",
+    "demo": "https://daybrush.com/ruler/"
   }
 ]

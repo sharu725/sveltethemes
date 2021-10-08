@@ -12,7 +12,7 @@
   },
   {
     "id": 1,
-    "title": "Hagura",
+    "title": "Hagura SvelteKit Theme",
     "slug": "Hagura",
     "categories": [
       "sveltekit",
@@ -59,7 +59,7 @@
     "repo": "https://github.com/lamualfa/routify-tailwind"
   },
   {
-    "id": 4,
+    "id": 12,
     "title": "Elderjs Template",
     "slug": "Elderjs-Template",
     "categories": [
