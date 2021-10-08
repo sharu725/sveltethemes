@@ -1,0 +1,141 @@
+[
+  {
+    "id": 11,
+    "title": "Notus Svelte",
+    "slug": "Notus-Svelte",
+    "categories": [
+      "tailwind"
+    ],
+    "description": "A beautiful UI Kit and Admin for Tailwind CSS and Svelte.",
+    "demo": "https://demos.creative-tim.com/notus-svelte",
+    "repo": "https://github.com/creativetimofficial/notus-svelte"
+  },
+  {
+    "id": 1,
+    "title": "Hagura",
+    "slug": "Hagura",
+    "categories": [
+      "sveltekit",
+      "markdown",
+      "tailwind"
+    ],
+    "description": "A minimal sveltekit theme for highly legible pages.",
+    "demo": "https://hagura-sveltekit.netlify.app/",
+    "repo": "https://github.com/sharu725/hagura-sveltekit"
+  },
+  {
+    "id": 2,
+    "title": "Sveltekit Mdsvex Blog",
+    "slug": "Sveltekit-Mdsvex-Blog",
+    "categories": [
+      "sveltekit",
+      "markdown"
+    ],
+    "description": "A minimalistic blog template built with SvelteKit and MDsveX",
+    "demo": "https://sveltekit-mdsvex-blog.netlify.app/",
+    "repo": "https://github.com/mvasigh/sveltekit-mdsvex-blog"
+  },
+  {
+    "id": 3,
+    "title": "Routify Starter",
+    "slug": "Routify-Starter",
+    "categories": [
+      "routify"
+    ],
+    "description": "Starter template for Routify.",
+    "demo": "https://example.routify.dev/",
+    "repo": "https://github.com/roxiness/routify-starter"
+  },
+  {
+    "id": 4,
+    "title": "Routify Tailwind",
+    "slug": "Routify-Tailwind",
+    "categories": [
+      "routify",
+      "tailwind"
+    ],
+    "description": "Use Routify with Tailwind CSS.",
+    "demo": "https://routify-tailwind.vercel.app/",
+    "repo": "https://github.com/lamualfa/routify-tailwind"
+  },
+  {
+    "id": 4,
+    "title": "Elderjs Template",
+    "slug": "Elderjs-Template",
+    "categories": [
+      "elderjs",
+      "ssg"
+    ],
+    "description": "Elder.js template project. It is part template, part tutorial. Dive in!",
+    "demo": "https://elderjs.netlify.app/",
+    "repo": "https://github.com/Elderjs/template"
+  },
+  {
+    "id": 5,
+    "title": "Svelte Storybook Tailwind",
+    "slug": "Svelte-Storybook-Tailwind",
+    "categories": [
+      "tailwind"
+    ],
+    "description": "A starter template for Svelte, TailwindCSS and Storybook.",
+    "demo": "https://svelte-tailwindcss-storybook.netlify.com/",
+    "repo": "https://github.com/jerriclynsjohn/svelte-storybook-tailwind"
+  },
+  {
+    "id": 6,
+    "title": "Sapper Stunning Theme",
+    "slug": "Sapper-Stunning-Theme",
+    "categories": [
+      "sapper"
+    ],
+    "description": "Static Site/Blog built with Sapper/Svelte.",
+    "demo": "https://stunning-theme.netlify.com/",
+    "repo": "https://github.com/apvarun/sapper-stunning-theme"
+  },
+  {
+    "id": 7,
+    "title": "Sveltekit Electron",
+    "slug": "sveltekit-electron",
+    "categories": [
+      "app",
+      "desktop"
+    ],
+    "description": "Minimal Sveltekit + Electron starter template.",
+    "repo": "https://github.com/FractalHQ/sveltekit-electron"
+  },
+  {
+    "id": 8,
+    "title": "SveltePress",
+    "slug": "sveltepress",
+    "categories": [
+      "ssg",
+      "docs"
+    ],
+    "description": "Documentation for humans.",
+    "demo": "https://sveltepress.geopjr.dev/",
+    "repo": "https://github.com/GeopJr/SveltePress"
+  },
+  {
+    "id": 9,
+    "title": "Svelte + TS + Tailwind app",
+    "slug": "svelte-ts-tailwind-template",
+    "categories": [
+      "svelte",
+      "tailwind",
+      "typescript"
+    ],
+    "description": "Svelte (v3) app template with TypeScript and TailwindCSS.",
+    "repo": "https://github.com/colinbate/svelte-ts-tailwind-template"
+  },
+  {
+    "id": 10,
+    "title": "Routify Notus",
+    "slug": "routify-notus",
+    "categories": [
+      "routify",
+      "tailwind"
+    ],
+    "description": "Notus Svelte starter template with Routify",
+    "repo": "https://github.com/azlkiniue/routify-notus"
+  }
+]

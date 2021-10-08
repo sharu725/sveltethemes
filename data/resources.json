@@ -1,0 +1,379 @@
+[
+  {
+    "id": 1,
+    "title": "Svelte Society",
+    "slug": "Svelte-Society",
+    "categories": [
+      "community",
+      "resources"
+    ],
+    "description": "Welcome to the community page of SvelteJS!",
+    "demo": "https://sveltesociety.dev/components",
+    "repo": "https://github.com/svelte-society/sveltesociety.dev"
+  },
+  {
+    "id": 2,
+    "title": "Awesome Svelte",
+    "slug": "Awesome-Svelte",
+    "categories": [
+      "resources"
+    ],
+    "description": "A curated list of awesome Svelte resources.",
+    "demo": "https://github.com/TheComputerM/awesome-svelte",
+    "repo": "https://github.com/TheComputerM/awesome-svelte"
+  },
+  {
+    "id": 3,
+    "title": "Svelte News",
+    "slug": "Svelte-News",
+    "categories": [
+      "news",
+      "resources"
+    ],
+    "description": "A curated newsletter for Svelte enthusiasts.",
+    "demo": "https://svelte.news/",
+    "repo": "https://github.com/rocketlaunchr/awesome-svelte"
+  },
+  {
+    "id": 4,
+    "title": "Svelte Awesome",
+    "slug": "Svelte-Awesome",
+    "categories": [
+      "fontawesome",
+      "icons"
+    ],
+    "description": "Font Awesome component for Svelte.js, using inline SVG.",
+    "demo": "https://robbrazier.github.io/svelte-awesome/",
+    "repo": "https://github.com/RobBrazier/svelte-awesome"
+  },
+  {
+    "id": 5,
+    "title": "Sveltestrap",
+    "slug": "Sveltestrap",
+    "categories": [
+      "bootstrap",
+      "css"
+    ],
+    "description": "Bootstrap 4 & 5 components for Svelte.",
+    "demo": "https://sveltestrap.js.org/?path=/story/components--get-started",
+    "repo": "https://github.com/bestguy/sveltestrap"
+  },
+  {
+    "id": 6,
+    "title": "Svelte Routing",
+    "slug": "Svelte-Routing",
+    "categories": [
+      "routing"
+    ],
+    "description": "A declarative Svelte routing library with SSR support.",
+    "demo": "https://github.com/EmilTholin/svelte-routing",
+    "repo": "https://github.com/EmilTholin/svelte-routing"
+  },
+  {
+    "id": 7,
+    "title": "Svelte Nodegui",
+    "slug": "Svelte-Nodegui",
+    "categories": [
+      "native",
+      "apps"
+    ],
+    "description": "Build performant, native and cross-platform desktop applications.",
+    "demo": "https://svelte.nodegui.org/",
+    "repo": "https://github.com/nodegui/svelte-nodegui"
+  },
+  {
+    "id": 8,
+    "title": "Svelte Material UI",
+    "slug": "Svelte-Material-UI",
+    "categories": [
+      "css"
+    ],
+    "description": "Svelte Material UI Components.",
+    "demo": "https://sveltematerialui.com/",
+    "repo": "https://github.com/hperrin/svelte-material-ui"
+  },
+  {
+    "id": 9,
+    "title": "Bytemd",
+    "slug": "Bytemd",
+    "categories": [
+      "markdown"
+    ],
+    "description": "A hackable Markdown editor component built with Svelte.",
+    "demo": "https://bytemd.netlify.app/",
+    "repo": "https://github.com/bytedance/bytemd"
+  },
+  {
+    "id": 10,
+    "title": "Smelte",
+    "slug": "Smelte",
+    "categories": [
+      "css"
+    ],
+    "description": "UI framework with material components built with Svelte and Tailwind CSS.",
+    "demo": "https://smeltejs.com/",
+    "repo": "https://github.com/matyunya/smelte"
+  },
+  {
+    "id": 11,
+    "title": "Selecto",
+    "slug": "Selecto",
+    "categories": [
+      "UI"
+    ],
+    "description": "Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.",
+    "demo": "https://daybrush.com/selecto",
+    "repo": "https://github.com/daybrush/selecto"
+  },
+  {
+    "id": 12,
+    "title": "Carbon Svelte",
+    "slug": "Carbon-Svelte",
+    "categories": [
+      "css"
+    ],
+    "description": "Svelte implementation of the Carbon Design System.",
+    "demo": "http://ibm.biz/carbon-svelte",
+    "repo": "https://github.com/IBM/carbon-components-svelte"
+  },
+  {
+    "id": 13,
+    "title": "MDsveX",
+    "slug": "MDsveX",
+    "categories": [
+      "markdown",
+      "preprocessor"
+    ],
+    "description": "A markdown preprocessor for Svelte.",
+    "demo": "https://mdsvex.com/",
+    "repo": "https://github.com/pngwn/MDsveX"
+  },
+  {
+    "id": 14,
+    "title": "Pancacke",
+    "slug": "Pancacke",
+    "categories": [
+      "UI",
+      "chart"
+    ],
+    "description": "Experimental charting library for Svelte.",
+    "demo": "https://pancake-charts.surge.sh/",
+    "repo": "https://github.com/Rich-Harris/pancake"
+  },
+  {
+    "id": 15,
+    "title": "Plenti",
+    "slug": "Plenti",
+    "categories": [
+      "ssg"
+    ],
+    "description": "Static Site Generator with Go backend and Svelte frontend.",
+    "demo": "https://plenti.co/",
+    "repo": "https://github.com/plentico/plenti"
+  },
+  {
+    "id": 16,
+    "title": "Svelte Grid",
+    "slug": "Svelte-Grid",
+    "categories": [
+      "UI"
+    ],
+    "description": "A responsive, draggable and resizable grid layout, for Svelte.",
+    "demo": "https://svelte-grid.vercel.app/",
+    "repo": "https://github.com/vaheqelyan/svelte-grid"
+  },
+  {
+    "id": 17,
+    "title": "Svelte Select",
+    "slug": "Svelte-Select",
+    "categories": [
+      "UI"
+    ],
+    "description": "A select component for Svelte apps.",
+    "demo": "https://svelte.dev/repl/3e032a58c3974d07b7818c0f817a06a3?version=3.20.1",
+    "repo": "https://github.com/rob-balfre/svelte-select"
+  },
+  {
+    "id": 18,
+    "title": "Layer Cake",
+    "slug": "Layer-Cake",
+    "categories": [
+      "UI",
+      "chart"
+    ],
+    "description": "graphics framework for sveltejs.",
+    "demo": "https://layercake.graphics/",
+    "repo": "https://github.com/mhkeller/layercake"
+  },
+  {
+    "id": 19,
+    "title": "Svelte Add",
+    "slug": "Svelte-Add",
+    "categories": [
+      "command"
+    ],
+    "description": "A collection of composable commands to add functionality to Svelte.",
+    "demo": "https://github.com/svelte-add/svelte-add",
+    "repo": "https://github.com/svelte-add/svelte-add"
+  },
+  {
+    "id": 19,
+    "title": "Svelte Table",
+    "slug": "svelte-table",
+    "categories": [
+      "UI"
+    ],
+    "description": "A svelte-3 table implementation that allows sorting and filtering.",
+    "demo": "https://dasdaniel.github.io/svelte-table/",
+    "repo": "https://github.com/dasDaniel/svelte-table"
+  },
+  {
+    "id": 20,
+    "title": "Pro UI",
+    "slug": "pro-ui",
+    "categories": [
+      "UI"
+    ],
+    "description": "Yet another Svelte ui library.",
+    "demo": "https://specialdoom.github.io/proi-ui/",
+    "repo": "https://github.com/specialdoom/proi-ui"
+  },
+  {
+    "id": 21,
+    "title": "Easy File Pond",
+    "slug": "easy-file-pond",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "Yet another Svelte ui library.",
+    "demo": "https://pqina.nl/filepond/",
+    "repo": "https://github.com/pqina/filepond"
+  },
+  {
+    "id": 22,
+    "title": "SvelteThree",
+    "slug": "svelte-three",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "Svelte powered three.js development.",
+    "demo": "https://svelthree.dev/",
+    "repo": "https://github.com/vatro/svelthree"
+  },
+  {
+    "id": 23,
+    "title": "Poi",
+    "slug": "poi",
+    "categories": [
+      "bundler"
+    ],
+    "description": "A zero-config bundler for JavaScript applications.",
+    "demo": "https://poi.js.org/",
+    "repo": "https://github.com/egoist/poi"
+  },
+  {
+    "id": 24,
+    "title": "Svelte Preprocess",
+    "slug": "svelte-preprocess",
+    "categories": [
+      "preprocessor"
+    ],
+    "description": "A sparkles magical sparkles Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.",
+    "repo": "https://github.com/sveltejs/svelte-preprocess"
+  },
+  {
+    "id": 25,
+    "title": "Why Svelte?",
+    "slug": "why-svelte",
+    "categories": [
+      "opinion",
+      "article"
+    ],
+    "description": "Svelte is a JavaScript framework for building user interfaces. Its compiler architecture enables amazing tradeoffs for UX and DX. Svelte might be worth your attention, especially if you pine for the web of yore and future.",
+    "repo": "https://github.com/feltcoop/why-svelte"
+  },
+  {
+    "id": 26,
+    "title": "Svelte Forms Lib",
+    "slug": "svelte-forms-lib",
+    "categories": [
+      "plugin",
+      "forms"
+    ],
+    "description": "Svelte is a JavaScript framework for building user interfaces. Its compiler architecture enables amazing tradeoffs for UX and DX. Svelte might be worth your attention, especially if you pine for the web of yore and future.",
+    "demo": "https://svelte-forms-lib-sapper-docs.vercel.app/introduction",
+    "repo": "https://github.com/tjinauyeung/svelte-forms-lib"
+  },
+  {
+    "id": 27,
+    "title": "Sveltekit Tutorial",
+    "slug": "sveltekit-tutorial",
+    "categories": [
+      "tutorial",
+      "video"
+    ],
+    "description": "In this series of videos, I will try to make Svelte easier to understand even if you are just learning JavaScript.",
+    "demo": "https://www.youtube.com/watch?v=Gtg4yG8Bhcs&list=PLm_Qt4aKpfKjf77S8UD79Ockhwp_699Ms",
+    "repo": ""
+  },
+  {
+    "id": 28,
+    "title": "Sveltekit API Blog",
+    "slug": "sveltekit-blog-api",
+    "categories": [
+      "tutorial",
+      "video"
+    ],
+    "description": "Create a simple SvelteKit blog.",
+    "demo": "https://www.youtube.com/watch?v=6lNrvFSRmwY&list=PLm_Qt4aKpfKi1LCngULWPrTEPxla8eGLr",
+    "repo": ""
+  },
+  {
+    "id": 29,
+    "title": "Sveltekit Markdown Blog",
+    "slug": "sveltekit-blog-markdown",
+    "categories": [
+      "tutorial",
+      "video"
+    ],
+    "description": "In this series I will be covering how a markdown blog can be created in Sveltekit.",
+    "demo": "https://www.youtube.com/watch?v=sKKgT0SEioI&list=PLm_Qt4aKpfKgonq1zwaCS6kOD-nbOKx7V",
+    "repo": ""
+  },
+  {
+    "id": 30,
+    "title": "Houdini",
+    "slug": "houdini",
+    "categories": [
+      "graphql",
+      "plugin"
+    ],
+    "description": "The 'disappearing' Svelte GraphQL client with support for Sapper and Sveltekit.",
+    "repo": "https://github.com/AlecAivazis/houdini"
+  },
+  {
+    "id": 31,
+    "title": "Sveltekit Auth",
+    "slug": "sveltekit-auth",
+    "categories": [
+      "auth",
+      "plugin"
+    ],
+    "description": "Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization!",
+    "repo": "https://github.com/Dan6erbond/sk-auth"
+  },
+  {
+    "id": 32,
+    "title": "Svelte Inview",
+    "slug": "svelte-inview",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "A Svelte action that monitors an element enters or leaves the viewport.",
+    "repo": "https://github.com/maciekgrzybek/svelte-inview",
+    "demo": "https://svelte-inview.netlify.app/"
+  }
+]
