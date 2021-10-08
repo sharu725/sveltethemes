@@ -1,4 +1,4 @@
-# SvelteThemes.dev themes and resources submission
+# SvelteThemes.dev submission
 
 - fork the repo
 - add a theme or resource to ``data/theme.json`` or ``data/resources.json``
