@@ -387,5 +387,41 @@
     "description": "A Svelte Ruler component that can draw grids and scroll infinitely.",
     "repo": "https://github.com/daybrush/ruler",
     "demo": "https://daybrush.com/ruler/"
+  },
+  {
+    "id": 33,
+    "title": "Svelteit",
+    "slug": "svelteit",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "Svelteit is a minimalistic UI/UX component library for Svelte and Sapper projects.",
+    "repo": "https://github.com/erictherobot/svelteit",
+    "demo": "https://docs.svelteit.dev/"
+  },
+  {
+    "id": 34,
+    "title": "Svelte SEO",
+    "slug": "svelte-seo",
+    "categories": [
+      "SEO",
+      "plugin"
+    ],
+    "description": "Svelte SEO is a plugin that makes managing your SEO easier in Svelte projects.",
+    "repo": "https://github.com/artiebits/svelte-seo",
+    "demo": "https://github.com/artiebits/svelte-seo"
+  },
+  {
+    "id": 35,
+    "title": "Attractions",
+    "slug": "attractions",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "A pretty cool UI kit for Svelte.",
+    "repo": "https://github.com/illright/attractions",
+    "demo": "https://illright.github.io/attractions/"
   }
 ]
