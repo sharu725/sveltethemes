@@ -423,5 +423,53 @@
     "description": "A pretty cool UI kit for Svelte.",
     "repo": "https://github.com/illright/attractions",
     "demo": "https://illright.github.io/attractions/"
+  },
+  {
+    "id": 36,
+    "title": "Svelte Accessible Accordion",
+    "slug": "svelte-accessible-accordion",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "Accessible accordion component",
+    "repo": "https://github.com/metonym/svelte-accessible-accordion",
+    "demo": "https://github.com/metonym/svelte-accessible-accordion"
+  },
+  {
+    "id": 37,
+    "title": "Svelte Slider",
+    "slug": "svelte-slider",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "Simple range slider for Svelte 3",
+    "repo": "https://github.com/BulatDashiev/svelte-slider",
+    "demo": "https://github.com/BulatDashiev/svelte-slider"
+  },
+  {
+    "id": 38,
+    "title": "Svelte Date Picker",
+    "slug": "date-picker-svelte",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "Date and time picker for Svelte",
+    "repo": "https://github.com/probablykasper/date-picker-svelte",
+    "demo": "https://date-picker-svelte.kasper.space/"
+  },
+  {
+    "id": 39,
+    "title": "Spaper",
+    "slug": "spaper",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "PaperCSS components for Svelte",
+    "repo": "https://github.com/Oli8/spaper",
+    "demo": "https://oli8.github.io/spaper/"
   }
 ]
