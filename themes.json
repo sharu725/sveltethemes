@@ -139,5 +139,14 @@
     "description": "A demo of a markdown based blog with SvelteKit, deployed to Github Pages.",
     "repo": "https://github.com/svelteland/svelte-kit-blog-demo",
     "demo": "https://svelteland.github.io/svelte-kit-blog-demo/"
+  },
+  {
+    "id": 15,
+    "title": "Yuyutsu",
+    "slug": "yuyutsu",
+    "categories": ["sveltekit", "github", "markdown", "mdsvex"],
+    "description": "A minimal Sveltekit theme with a sidebar.",
+    "repo": "https://github.com/sharu725/yuyutsu",
+    "demo": "https://yuyutsu.sveltethemes.dev/"
   }
 ]
