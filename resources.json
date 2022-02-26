@@ -390,5 +390,32 @@
     "description": "Svelte Meta Tags is a plugin that makes managing your SEO easier in Svelte projects.",
     "repo": "https://github.com/oekazuma/svelte-meta-tags",
     "demo": "https://fluent-svelte.vercel.app/"
+  },
+  {
+    "id": 43,
+    "title": "Svelte Outclick",
+    "slug": "svelte-outclick",
+    "categories": ["UI", "plugin"],
+    "description": "A SvelteJS component that allows you to listen for clicks outside of an element.",
+    "repo": "https://github.com/babakfp/svelte-outclick",
+    "demo": "https://svelte-outclick.vercel.app/"
+  },
+  {
+    "id": 44,
+    "title": "Svelte Themes",
+    "slug": "svelte-themes",
+    "categories": ["UI", "plugin"],
+    "description": "About Perfect SvelteKit dark mode in 2 lines of code. Support System preference and any other theme with no flashing",
+    "repo": "https://github.com/beynar/svelte-themes",
+    "demo": "https://svelte-themes.vercel.app/"
+  },
+  {
+    "id": 45,
+    "title": "Svelte Yup",
+    "slug": "svelte-yup",
+    "categories": ["UX", "plugin"],
+    "description": "Svelte component library for form validation with yup",
+    "repo": "https://github.com/KamyarLajani/svelte-yup",
+    "demo": "https://svelte-yup.netlify.app/"
   }
 ]
