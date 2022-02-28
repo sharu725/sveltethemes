@@ -417,5 +417,41 @@
     "description": "Svelte component library for form validation with yup",
     "repo": "https://github.com/KamyarLajani/svelte-yup",
     "demo": "https://svelte-yup.netlify.app/"
+  },
+  {
+    "id": 46,
+    "title": "Svelte Sitemap",
+    "slug": "svelte-sitemap",
+    "categories": ["SEO", "plugin"],
+    "description": "Sitemap generator for Svelte. Small helper which scans your Svelte routes and generates static sitemap.xml",
+    "repo": "https://github.com/bartholomej/svelte-sitemap",
+    "demo": "https://github.com/bartholomej/svelte-sitemap"
+  },
+  {
+    "id": 47,
+    "title": "Svemix",
+    "slug": "svemix",
+    "categories": ["UI", "UX", "plugin"],
+    "description": "The Full-Stack addition to SvelteKit. Write your server code inside svelte files, handle sessions, forms and SEO easily.",
+    "repo": "https://github.com/svemix/svemix",
+    "demo": "https://svemix.com/"
+  },
+  {
+    "id": 48,
+    "title": "As Toast",
+    "slug": "as-toast",
+    "categories": ["UI", "UX", "plugin"],
+    "description": "Simple and customizable toast notifications for Svelte",
+    "repo": "https://github.com/SarcevicAntonio/as-toast",
+    "demo": "https://as-toast.vercel.app/"
+  },
+  {
+    "id": 49,
+    "title": "EGJS Infinite Grid",
+    "slug": "egjs-infinitegrid",
+    "categories": ["UI", "UX", "plugin"],
+    "description": "A Svelte component that can arrange items infinitely according to the type of grids",
+    "repo": "https://github.com/naver/egjs-infinitegrid",
+    "demo": "https://naver.github.io/egjs-infinitegrid"
   }
 ]
