@@ -453,5 +453,14 @@
     "description": "A Svelte component that can arrange items infinitely according to the type of grids",
     "repo": "https://github.com/naver/egjs-infinitegrid",
     "demo": "https://naver.github.io/egjs-infinitegrid"
+  },
+  {
+    "id": 50,
+    "title": "Flowbite Svelte",
+    "slug": "flowbite-svelte",
+    "categories": ["UI", "plugin"],
+    "description": "A UI kit for svelte",
+    "repo": "https://github.com/shinokada/flowbite-svelte",
+    "demo": "http://flowbite-svelte.vercel.app/"
   }
 ]

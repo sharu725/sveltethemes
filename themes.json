@@ -148,5 +148,14 @@
     "description": "A minimal Sveltekit theme with a sidebar.",
     "repo": "https://github.com/sharu725/yuyutsu",
     "demo": "https://yuyutsu.sveltethemes.dev/"
+  },
+  {
+    "id": 16,
+    "title": "Directus Sveltekit Blogging Starter",
+    "slug": "directus-sveltekit-blog-starter",
+    "categories": ["UI", "plugin"],
+    "description": "This is a Directus, Sveltekit blogging starter. Also comes with Tailwind (via Windicss) for easy styling!",
+    "repo": "https://github.com/alteredorange/directus-sveltekit-blog-starter",
+    "demo": "https://github.com/alteredorange/directus-sveltekit-blog-starter"
   }
 ]
