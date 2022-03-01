@@ -157,5 +157,14 @@
     "description": "This is a Directus, Sveltekit blogging starter. Also comes with Tailwind (via Windicss) for easy styling!",
     "repo": "https://github.com/alteredorange/directus-sveltekit-blog-starter",
     "demo": "https://github.com/alteredorange/directus-sveltekit-blog-starter"
+  },
+  {
+    "id": 17,
+    "title": "Urara",
+    "slug": "urara",
+    "categories": ["sveltekit", "markdown", "windicss", "daisyui"],
+    "description": "Sweet & Powerful SvelteKit Blog Template.",
+    "repo": "https://github.com/importantimport/urara",
+    "demo": "https://urara-docs.netlify.app/"
   }
 ]
