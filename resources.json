@@ -467,7 +467,7 @@
     "id": 51,
     "title": "Sveltekit Stripe",
     "slug": "sveltekit-stripe",
-    "categories": ["UI", "plugin"],
+    "categories": ["UI", "plugin", "sveltekit"],
     "description": "Integrating SvelteKit and Stripe Checkout",
     "repo": "https://github.com/srmullen/sveltekit-stripe",
     "demo": "https://sveltekit-stripe.netlify.app/"
