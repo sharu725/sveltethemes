@@ -462,5 +462,14 @@
     "description": "A UI kit for svelte",
     "repo": "https://github.com/shinokada/flowbite-svelte",
     "demo": "http://flowbite-svelte.vercel.app/"
+  },
+  {
+    "id": 51,
+    "title": "Sveltekit Stripe",
+    "slug": "sveltekit-stripe",
+    "categories": ["UI", "plugin"],
+    "description": "Integrating SvelteKit and Stripe Checkout",
+    "repo": "https://github.com/srmullen/sveltekit-stripe",
+    "demo": "https://sveltekit-stripe.netlify.app/"
   }
 ]
