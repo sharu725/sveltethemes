@@ -166,5 +166,50 @@
     "description": "Sweet & Powerful SvelteKit Blog Template.",
     "repo": "https://github.com/importantimport/urara",
     "demo": "https://urara-docs.netlify.app/"
+  },
+  {
+    "id": 18,
+    "title": "Svelte Starter",
+    "slug": "svelte-starter",
+    "categories": ["sveltekit"],
+    "description": "A Svelte starter template for projects.",
+    "repo": "https://github.com/the-pudding/svelte-starter",
+    "demo": "https://github.com/the-pudding/svelte-starter"
+  },
+  {
+    "id": 19,
+    "title": "Felt Template",
+    "slug": "felt-template",
+    "categories": ["sveltekit"],
+    "description": "a web app template with SvelteKit, Gro, and Felt",
+    "repo": "https://github.com/feltcoop/felt-template",
+    "demo": "https://feltcoop.github.io/felt-template"
+  },
+  {
+    "id": 20,
+    "title": "Sveltekit Smui Template",
+    "slug": "sveltekit-smui-template",
+    "categories": ["sveltekit", "material", "UI"],
+    "description": "SvelteKit Material UI",
+    "repo": "https://github.com/pham/sveltekit-smui-template",
+    "demo": "https://sveltekit-smui-template.aquaron.com/"
+  },
+  {
+    "id": 21,
+    "title": "Swindi",
+    "slug": "swindi",
+    "categories": ["sveltekit", "windicss", "typescript"],
+    "description": "battery packed template / boilerplate to initialize sveltekit app with WindiCSS & Typescript setup sparkles",
+    "repo": "https://github.com/sozonome/swindi",
+    "demo": "https://swindi.sznm.dev/"
+  },
+  {
+    "id": 22,
+    "title": "Sveltekit Ethers Template",
+    "slug": "svelte-kit-ethers-template",
+    "categories": ["sveltekit", "ethers", "tailwind", "web3"],
+    "description": "Typescript Boilerplate for building Ethereum dApps with Svelte Kit, TailwindCSS & Ethers.",
+    "repo": "https://github.com/DecentralisedTech/svelte-kit-ethers-template",
+    "demo": "http://svelte-kit-ethers-boilderplate.vercel.app/"
   }
 ]
