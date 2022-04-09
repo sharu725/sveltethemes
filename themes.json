@@ -293,5 +293,19 @@
     "description": "Typescript Boilerplate for building Ethereum dApps with Svelte Kit, TailwindCSS & Ethers.",
     "repo": "https://github.com/DecentralisedTech/svelte-kit-ethers-template",
     "demo": "http://svelte-kit-ethers-boilderplate.vercel.app/"
+  },
+  {
+    "id": 23,
+    "title": "Figs Sveltekit Theme",
+    "slug": "figs-sveltekit-theme",
+    "categories": [
+      "sveltekit",
+      "tailwind",
+      "mdsvex"
+    ],
+    "description": "Figs is a Sveltekit template to showcase your resume, projects, blog etc.",
+    "repo": "https://figs.sveltethemes.dev/blog/documentation",
+    "demo": "https://figs.sveltethemes.dev",
+    "paid": true
   }
 ]
