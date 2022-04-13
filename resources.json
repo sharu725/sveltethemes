@@ -471,5 +471,23 @@
     "description": "Integrating SvelteKit and Stripe Checkout",
     "repo": "https://github.com/srmullen/sveltekit-stripe",
     "demo": "https://sveltekit-stripe.netlify.app/"
+  },
+  {
+    "id": 52,
+    "title": "Sv Popup",
+    "slug": "sv-popup",
+    "categories": ["UI", "plugin", "sveltekit", "modal", "popup"],
+    "description": "A simple popup/modal for svelte/sveltekit apps",
+    "repo": "https://github.com/sharu725/sv-popup",
+    "demo": "https://sv-popup.sveltethemes.dev"
+  },
+  {
+    "id": 53,
+    "title": "Svelte youtube Embed",
+    "slug": "youtube-embed",
+    "categories": ["UI", "plugin", "sveltekit", "youtube"],
+    "description": "Embeds a clickable youtube thumbnail instead of the iframe. Upon clicking, loads the iframe.",
+    "repo": "https://github.com/sharu725/youtube-embed",
+    "demo": "https://embed.sveltethemes.dev"
   }
 ]
