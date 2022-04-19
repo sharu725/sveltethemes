@@ -200,7 +200,7 @@
       "sveltekit",
       "github",
       "markdown",
-      "mdsvex"
+      "markdown"
     ],
     "description": "A minimal Sveltekit theme with a sidebar.",
     "repo": "https://github.com/sharu725/yuyutsu",
@@ -301,11 +301,24 @@
     "categories": [
       "sveltekit",
       "tailwind",
-      "mdsvex"
+      "markdown"
     ],
     "description": "Figs is a Sveltekit template to showcase your resume, projects, blog etc.",
     "repo": "https://figs.sveltethemes.dev/blog/documentation",
     "demo": "https://figs.sveltethemes.dev",
     "paid": true
+  },
+  {
+    "id": 23,
+    "title": "Chola Sveltekit Template",
+    "slug": "chola-sveltekit-template",
+    "categories": [
+      "sveltekit",
+      "minimal",
+      "markdown"
+    ],
+    "description": "A minimal content focussed sveltekit template.",
+    "repo": "https://github.com/sharu725/chola",
+    "demo": "https://chola.sveltethemes.dev/",
   }
 ]
