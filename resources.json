@@ -489,5 +489,14 @@
     "description": "Embeds a clickable youtube thumbnail instead of the iframe. Upon clicking, loads the iframe.",
     "repo": "https://github.com/sharu725/youtube-embed",
     "demo": "https://embed.sveltethemes.dev"
+  },
+  {
+    "id": 54,
+    "title": "SvelteUI",
+    "slug": "svelteui",
+    "categories": ["UI", "plugin", "sveltekit", "svelte"],
+    "description": "SvelteUI is a component library for building fully functional & accessible web applications faster than ever",
+    "repo": "https://github.com/Brisklemonade/svelteui",
+    "demo": "https://svelteui-docs.vercel.app/"
   }
 ]
