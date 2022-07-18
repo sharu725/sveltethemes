@@ -3,7 +3,10 @@
     "id": 1,
     "title": "Svelte Society",
     "slug": "Svelte-Society",
-    "categories": ["community", "resources"],
+    "categories": [
+      "community",
+      "resources"
+    ],
     "description": "Welcome to the community page of SvelteJS!",
     "demo": "https://sveltesociety.dev/components",
     "repo": "https://github.com/svelte-society/sveltesociety.dev"
@@ -12,7 +15,9 @@
     "id": 2,
     "title": "Awesome Svelte",
     "slug": "Awesome-Svelte",
-    "categories": ["resources"],
+    "categories": [
+      "resources"
+    ],
     "description": "A curated list of awesome Svelte resources.",
     "demo": "https://github.com/TheComputerM/awesome-svelte",
     "repo": "https://github.com/TheComputerM/awesome-svelte"
@@ -21,7 +26,10 @@
     "id": 3,
     "title": "Svelte News",
     "slug": "Svelte-News",
-    "categories": ["news", "resources"],
+    "categories": [
+      "news",
+      "resources"
+    ],
     "description": "A curated newsletter for Svelte enthusiasts.",
     "demo": "https://svelte.news/",
     "repo": "https://github.com/rocketlaunchr/awesome-svelte"
@@ -30,7 +38,10 @@
     "id": 4,
     "title": "Svelte Awesome",
     "slug": "Svelte-Awesome",
-    "categories": ["fontawesome", "icons"],
+    "categories": [
+      "fontawesome",
+      "icons"
+    ],
     "description": "Font Awesome component for Svelte.js, using inline SVG.",
     "demo": "https://robbrazier.github.io/svelte-awesome/",
     "repo": "https://github.com/RobBrazier/svelte-awesome"
@@ -39,7 +50,10 @@
     "id": 5,
     "title": "Sveltestrap",
     "slug": "Sveltestrap",
-    "categories": ["bootstrap", "css"],
+    "categories": [
+      "bootstrap",
+      "css"
+    ],
     "description": "Bootstrap 4 & 5 components for Svelte.",
     "demo": "https://sveltestrap.js.org/?path=/story/components--get-started",
     "repo": "https://github.com/bestguy/sveltestrap"
@@ -48,7 +62,9 @@
     "id": 6,
     "title": "Svelte Routing",
     "slug": "Svelte-Routing",
-    "categories": ["routing"],
+    "categories": [
+      "routing"
+    ],
     "description": "A declarative Svelte routing library with SSR support.",
     "demo": "https://github.com/EmilTholin/svelte-routing",
     "repo": "https://github.com/EmilTholin/svelte-routing"
@@ -57,7 +73,10 @@
     "id": 7,
     "title": "Svelte Nodegui",
     "slug": "Svelte-Nodegui",
-    "categories": ["native", "apps"],
+    "categories": [
+      "native",
+      "apps"
+    ],
     "description": "Build performant, native and cross-platform desktop applications.",
     "demo": "https://svelte.nodegui.org/",
     "repo": "https://github.com/nodegui/svelte-nodegui"
@@ -66,7 +85,9 @@
     "id": 8,
     "title": "Svelte Material UI",
     "slug": "Svelte-Material-UI",
-    "categories": ["css"],
+    "categories": [
+      "css"
+    ],
     "description": "Svelte Material UI Components.",
     "demo": "https://sveltematerialui.com/",
     "repo": "https://github.com/hperrin/svelte-material-ui"
@@ -75,7 +96,9 @@
     "id": 9,
     "title": "Bytemd",
     "slug": "Bytemd",
-    "categories": ["markdown"],
+    "categories": [
+      "markdown"
+    ],
     "description": "A hackable Markdown editor component built with Svelte.",
     "demo": "https://bytemd.netlify.app/",
     "repo": "https://github.com/bytedance/bytemd"
@@ -84,7 +107,9 @@
     "id": 10,
     "title": "Smelte",
     "slug": "Smelte",
-    "categories": ["css"],
+    "categories": [
+      "css"
+    ],
     "description": "UI framework with material components built with Svelte and Tailwind CSS.",
     "demo": "https://smeltejs.com/",
     "repo": "https://github.com/matyunya/smelte"
@@ -93,7 +118,9 @@
     "id": 11,
     "title": "Selecto",
     "slug": "Selecto",
-    "categories": ["UI"],
+    "categories": [
+      "UI"
+    ],
     "description": "Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.",
     "demo": "https://daybrush.com/selecto",
     "repo": "https://github.com/daybrush/selecto"
@@ -102,7 +129,9 @@
     "id": 12,
     "title": "Carbon Svelte",
     "slug": "Carbon-Svelte",
-    "categories": ["css"],
+    "categories": [
+      "css"
+    ],
     "description": "Svelte implementation of the Carbon Design System.",
     "demo": "http://ibm.biz/carbon-svelte",
     "repo": "https://github.com/IBM/carbon-components-svelte"
@@ -111,7 +140,10 @@
     "id": 13,
     "title": "MDsveX",
     "slug": "MDsveX",
-    "categories": ["markdown", "preprocessor"],
+    "categories": [
+      "markdown",
+      "preprocessor"
+    ],
     "description": "A markdown preprocessor for Svelte.",
     "demo": "https://mdsvex.com/",
     "repo": "https://github.com/pngwn/MDsveX"
@@ -120,7 +152,10 @@
     "id": 14,
     "title": "Pancacke",
     "slug": "Pancacke",
-    "categories": ["UI", "chart"],
+    "categories": [
+      "UI",
+      "chart"
+    ],
     "description": "Experimental charting library for Svelte.",
     "demo": "https://pancake-charts.surge.sh/",
     "repo": "https://github.com/Rich-Harris/pancake"
@@ -129,7 +164,9 @@
     "id": 15,
     "title": "Plenti",
     "slug": "Plenti",
-    "categories": ["ssg"],
+    "categories": [
+      "ssg"
+    ],
     "description": "Static Site Generator with Go backend and Svelte frontend.",
     "demo": "https://plenti.co/",
     "repo": "https://github.com/plentico/plenti"
@@ -138,7 +175,9 @@
     "id": 16,
     "title": "Svelte Grid",
     "slug": "Svelte-Grid",
-    "categories": ["UI"],
+    "categories": [
+      "UI"
+    ],
     "description": "A responsive, draggable and resizable grid layout, for Svelte.",
     "demo": "https://svelte-grid.vercel.app/",
     "repo": "https://github.com/vaheqelyan/svelte-grid"
@@ -147,7 +186,9 @@
     "id": 17,
     "title": "Svelte Select",
     "slug": "Svelte-Select",
-    "categories": ["UI"],
+    "categories": [
+      "UI"
+    ],
     "description": "A select component for Svelte apps.",
     "demo": "https://svelte.dev/repl/3e032a58c3974d07b7818c0f817a06a3?version=3.20.1",
     "repo": "https://github.com/rob-balfre/svelte-select"
@@ -156,7 +197,10 @@
     "id": 18,
     "title": "Layer Cake",
     "slug": "Layer-Cake",
-    "categories": ["UI", "chart"],
+    "categories": [
+      "UI",
+      "chart"
+    ],
     "description": "graphics framework for sveltejs.",
     "demo": "https://layercake.graphics/",
     "repo": "https://github.com/mhkeller/layercake"
@@ -165,7 +209,9 @@
     "id": 19,
     "title": "Svelte Add",
     "slug": "Svelte-Add",
-    "categories": ["command"],
+    "categories": [
+      "command"
+    ],
     "description": "A collection of composable commands to add functionality to Svelte.",
     "demo": "https://github.com/svelte-add/svelte-add",
     "repo": "https://github.com/svelte-add/svelte-add"
@@ -174,7 +220,9 @@
     "id": 19,
     "title": "Svelte Table",
     "slug": "svelte-table",
-    "categories": ["UI"],
+    "categories": [
+      "UI"
+    ],
     "description": "A svelte-3 table implementation that allows sorting and filtering.",
     "demo": "https://dasdaniel.github.io/svelte-table/",
     "repo": "https://github.com/dasDaniel/svelte-table"
@@ -183,7 +231,9 @@
     "id": 20,
     "title": "Pro UI",
     "slug": "pro-ui",
-    "categories": ["UI"],
+    "categories": [
+      "UI"
+    ],
     "description": "Yet another Svelte ui library.",
     "demo": "https://specialdoom.github.io/proi-ui/",
     "repo": "https://github.com/specialdoom/proi-ui"
@@ -192,7 +242,10 @@
     "id": 21,
     "title": "Easy File Pond",
     "slug": "easy-file-pond",
-    "categories": ["UI", "plugin"],
+    "categories": [
+      "UI",
+      "plugin"
+    ],
     "description": "Yet another Svelte ui library.",
     "demo": "https://pqina.nl/filepond/",
     "repo": "https://github.com/pqina/filepond"
@@ -201,7 +254,10 @@
     "id": 22,
     "title": "SvelteThree",
     "slug": "svelte-three",
-    "categories": ["UI", "plugin"],
+    "categories": [
+      "UI",
+      "plugin"
+    ],
     "description": "Svelte powered three.js development.",
     "demo": "https://svelthree.dev/",
     "repo": "https://github.com/vatro/svelthree"
@@ -210,7 +266,9 @@
     "id": 23,
     "title": "Poi",
     "slug": "poi",
-    "categories": ["bundler"],
+    "categories": [
+      "bundler"
+    ],
     "description": "A zero-config bundler for JavaScript applications.",
     "demo": "https://poi.js.org/",
     "repo": "https://github.com/egoist/poi"
@@ -219,7 +277,9 @@
     "id": 24,
     "title": "Svelte Preprocess",
     "slug": "svelte-preprocess",
-    "categories": ["preprocessor"],
+    "categories": [
+      "preprocessor"
+    ],
     "description": "A sparkles magical sparkles Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.",
     "repo": "https://github.com/sveltejs/svelte-preprocess"
   },
@@ -227,7 +287,10 @@
     "id": 25,
     "title": "Why Svelte?",
     "slug": "why-svelte",
-    "categories": ["opinion", "article"],
+    "categories": [
+      "opinion",
+      "article"
+    ],
     "description": "Svelte is a JavaScript framework for building user interfaces. Its compiler architecture enables amazing tradeoffs for UX and DX. Svelte might be worth your attention, especially if you pine for the web of yore and future.",
     "repo": "https://github.com/feltcoop/why-svelte"
   },
@@ -235,7 +298,10 @@
     "id": 26,
     "title": "Svelte Forms Lib",
     "slug": "svelte-forms-lib",
-    "categories": ["plugin", "forms"],
+    "categories": [
+      "plugin",
+      "forms"
+    ],
     "description": "Svelte is a JavaScript framework for building user interfaces. Its compiler architecture enables amazing tradeoffs for UX and DX. Svelte might be worth your attention, especially if you pine for the web of yore and future.",
     "demo": "https://svelte-forms-lib-sapper-docs.vercel.app/introduction",
     "repo": "https://github.com/tjinauyeung/svelte-forms-lib"
@@ -244,7 +310,10 @@
     "id": 27,
     "title": "Sveltekit Tutorial",
     "slug": "sveltekit-tutorial",
-    "categories": ["tutorial", "video"],
+    "categories": [
+      "tutorial",
+      "video"
+    ],
     "description": "In this series of videos, I will try to make Svelte easier to understand even if you are just learning JavaScript.",
     "demo": "https://www.youtube.com/watch?v=Gtg4yG8Bhcs&list=PLm_Qt4aKpfKjf77S8UD79Ockhwp_699Ms",
     "repo": ""
@@ -253,7 +322,10 @@
     "id": 28,
     "title": "Sveltekit API Blog",
     "slug": "sveltekit-blog-api",
-    "categories": ["tutorial", "video"],
+    "categories": [
+      "tutorial",
+      "video"
+    ],
     "description": "Create a simple SvelteKit blog.",
     "demo": "https://www.youtube.com/watch?v=6lNrvFSRmwY&list=PLm_Qt4aKpfKi1LCngULWPrTEPxla8eGLr",
     "repo": ""
@@ -262,7 +334,10 @@
     "id": 29,
     "title": "Sveltekit Markdown Blog",
     "slug": "sveltekit-blog-markdown",
-    "categories": ["tutorial", "video"],
+    "categories": [
+      "tutorial",
+      "video"
+    ],
     "description": "In this series I will be covering how a markdown blog can be created in Sveltekit.",
     "demo": "https://www.youtube.com/watch?v=sKKgT0SEioI&list=PLm_Qt4aKpfKgonq1zwaCS6kOD-nbOKx7V",
     "repo": ""
@@ -271,7 +346,10 @@
     "id": 30,
     "title": "Houdini",
     "slug": "houdini",
-    "categories": ["graphql", "plugin"],
+    "categories": [
+      "graphql",
+      "plugin"
+    ],
     "description": "The 'disappearing' Svelte GraphQL client with support for Sapper and Sveltekit.",
     "repo": "https://github.com/AlecAivazis/houdini"
   },
@@ -279,7 +357,10 @@
     "id": 31,
     "title": "Sveltekit Auth",
     "slug": "sveltekit-auth",
-    "categories": ["auth", "plugin"],
+    "categories": [
+      "auth",
+      "plugin"
+    ],
     "description": "Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization!",
     "repo": "https://github.com/Dan6erbond/sk-auth"
   },
@@ -287,7 +368,10 @@
     "id": 32,
     "title": "Svelte Inview",
     "slug": "svelte-inview",
-    "categories": ["UI", "plugin"],
+    "categories": [
+      "UI",
+      "plugin"
+    ],
     "description": "A Svelte action that monitors an element enters or leaves the viewport.",
     "repo": "https://github.com/maciekgrzybek/svelte-inview",
     "demo": "https://svelte-inview.netlify.app/"
@@ -296,7 +380,10 @@
     "id": 32,
     "title": "Svelte Ruler",
     "slug": "svelte-ruler",
-    "categories": ["UI", "plugin"],
+    "categories": [
+      "UI",
+      "plugin"
+    ],
     "description": "A Svelte Ruler component that can draw grids and scroll infinitely.",
     "repo": "https://github.com/daybrush/ruler",
     "demo": "https://daybrush.com/ruler/"
@@ -305,7 +392,10 @@
     "id": 33,
     "title": "Svelteit",
     "slug": "svelteit",
-    "categories": ["UI", "plugin"],
+    "categories": [
+      "UI",
+      "plugin"
+    ],
     "description": "Svelteit is a minimalistic UI/UX component library for Svelte and Sapper projects.",
     "repo": "https://github.com/erictherobot/svelteit",
     "demo": "https://docs.svelteit.dev/"
@@ -314,7 +404,10 @@
     "id": 34,
     "title": "Svelte SEO",
     "slug": "svelte-seo",
-    "categories": ["SEO", "plugin"],
+    "categories": [
+      "SEO",
+      "plugin"
+    ],
     "description": "Svelte SEO is a plugin that makes managing your SEO easier in Svelte projects.",
     "repo": "https://github.com/artiebits/svelte-seo",
     "demo": "https://github.com/artiebits/svelte-seo"
@@ -323,7 +416,10 @@
     "id": 35,
     "title": "Attractions",
     "slug": "attractions",
-    "categories": ["UI", "plugin"],
+    "categories": [
+      "UI",
+      "plugin"
+    ],
     "description": "A pretty cool UI kit for Svelte.",
     "repo": "https://github.com/illright/attractions",
     "demo": "https://illright.github.io/attractions/"
@@ -332,7 +428,10 @@
     "id": 36,
     "title": "Svelte Accessible Accordion",
     "slug": "svelte-accessible-accordion",
-    "categories": ["UI", "plugin"],
+    "categories": [
+      "UI",
+      "plugin"
+    ],
     "description": "Accessible accordion component",
     "repo": "https://github.com/metonym/svelte-accessible-accordion",
     "demo": "https://github.com/metonym/svelte-accessible-accordion"
@@ -341,7 +440,10 @@
     "id": 37,
     "title": "Svelte Slider",
     "slug": "svelte-slider",
-    "categories": ["UI", "plugin"],
+    "categories": [
+      "UI",
+      "plugin"
+    ],
     "description": "Simple range slider for Svelte 3",
     "repo": "https://github.com/BulatDashiev/svelte-slider",
     "demo": "https://github.com/BulatDashiev/svelte-slider"
@@ -350,7 +452,10 @@
     "id": 38,
     "title": "Svelte Date Picker",
     "slug": "date-picker-svelte",
-    "categories": ["UI", "plugin"],
+    "categories": [
+      "UI",
+      "plugin"
+    ],
     "description": "Date and time picker for Svelte",
     "repo": "https://github.com/probablykasper/date-picker-svelte",
     "demo": "https://date-picker-svelte.kasper.space/"
@@ -359,7 +464,10 @@
     "id": 39,
     "title": "Spaper",
     "slug": "spaper",
-    "categories": ["UI", "plugin"],
+    "categories": [
+      "UI",
+      "plugin"
+    ],
     "description": "PaperCSS components for Svelte",
     "repo": "https://github.com/Oli8/spaper",
     "demo": "https://oli8.github.io/spaper/"
@@ -368,7 +476,10 @@
     "id": 40,
     "title": "gQuery",
     "slug": "gquery",
-    "categories": ["graphQL", "plugin"],
+    "categories": [
+      "graphQL",
+      "plugin"
+    ],
     "description": "Not like jQuery. A GraphQL Fetcher & Cache for Svelte Kit",
     "repo": "https://github.com/leveluptuts/gQuery",
     "demo": "https://gquery.leveluptutorials.com/"
@@ -377,7 +488,10 @@
     "id": 41,
     "title": "Fluent Svelte",
     "slug": "fluent-svelte",
-    "categories": ["UI", "plugin"],
+    "categories": [
+      "UI",
+      "plugin"
+    ],
     "description": "A faithful implementation of Microsoft's Fluent Design System in Svelte.",
     "repo": "https://github.com/Tropix126/fluent-svelte",
     "demo": "https://fluent-svelte.vercel.app/"
@@ -386,7 +500,10 @@
     "id": 42,
     "title": "Svelte Meta Tags",
     "slug": "svelte-meta-tags",
-    "categories": ["SEO", "plugin"],
+    "categories": [
+      "SEO",
+      "plugin"
+    ],
     "description": "Svelte Meta Tags is a plugin that makes managing your SEO easier in Svelte projects.",
     "repo": "https://github.com/oekazuma/svelte-meta-tags",
     "demo": "https://fluent-svelte.vercel.app/"
@@ -395,7 +512,10 @@
     "id": 43,
     "title": "Svelte Outclick",
     "slug": "svelte-outclick",
-    "categories": ["UI", "plugin"],
+    "categories": [
+      "UI",
+      "plugin"
+    ],
     "description": "A SvelteJS component that allows you to listen for clicks outside of an element.",
     "repo": "https://github.com/babakfp/svelte-outclick",
     "demo": "https://svelte-outclick.vercel.app/"
@@ -404,7 +524,10 @@
     "id": 44,
     "title": "Svelte Themes",
     "slug": "svelte-themes",
-    "categories": ["UI", "plugin"],
+    "categories": [
+      "UI",
+      "plugin"
+    ],
     "description": "About Perfect SvelteKit dark mode in 2 lines of code. Support System preference and any other theme with no flashing",
     "repo": "https://github.com/beynar/svelte-themes",
     "demo": "https://svelte-themes.vercel.app/"
@@ -413,7 +536,10 @@
     "id": 45,
     "title": "Svelte Yup",
     "slug": "svelte-yup",
-    "categories": ["UX", "plugin"],
+    "categories": [
+      "UX",
+      "plugin"
+    ],
     "description": "Svelte component library for form validation with yup",
     "repo": "https://github.com/KamyarLajani/svelte-yup",
     "demo": "https://svelte-yup.netlify.app/"
@@ -422,7 +548,10 @@
     "id": 46,
     "title": "Svelte Sitemap",
     "slug": "svelte-sitemap",
-    "categories": ["SEO", "plugin"],
+    "categories": [
+      "SEO",
+      "plugin"
+    ],
     "description": "Sitemap generator for Svelte. Small helper which scans your Svelte routes and generates static sitemap.xml",
     "repo": "https://github.com/bartholomej/svelte-sitemap",
     "demo": "https://github.com/bartholomej/svelte-sitemap"
@@ -431,7 +560,11 @@
     "id": 47,
     "title": "Svemix",
     "slug": "svemix",
-    "categories": ["UI", "UX", "plugin"],
+    "categories": [
+      "UI",
+      "UX",
+      "plugin"
+    ],
     "description": "The Full-Stack addition to SvelteKit. Write your server code inside svelte files, handle sessions, forms and SEO easily.",
     "repo": "https://github.com/svemix/svemix",
     "demo": "https://svemix.com/"
@@ -440,7 +573,11 @@
     "id": 48,
     "title": "As Toast",
     "slug": "as-toast",
-    "categories": ["UI", "UX", "plugin"],
+    "categories": [
+      "UI",
+      "UX",
+      "plugin"
+    ],
     "description": "Simple and customizable toast notifications for Svelte",
     "repo": "https://github.com/SarcevicAntonio/as-toast",
     "demo": "https://as-toast.vercel.app/"
@@ -449,7 +586,11 @@
     "id": 49,
     "title": "EGJS Infinite Grid",
     "slug": "egjs-infinitegrid",
-    "categories": ["UI", "UX", "plugin"],
+    "categories": [
+      "UI",
+      "UX",
+      "plugin"
+    ],
     "description": "A Svelte component that can arrange items infinitely according to the type of grids",
     "repo": "https://github.com/naver/egjs-infinitegrid",
     "demo": "https://naver.github.io/egjs-infinitegrid"
@@ -458,7 +599,10 @@
     "id": 50,
     "title": "Flowbite Svelte",
     "slug": "flowbite-svelte",
-    "categories": ["UI", "plugin"],
+    "categories": [
+      "UI",
+      "plugin"
+    ],
     "description": "A UI kit for svelte",
     "repo": "https://github.com/shinokada/flowbite-svelte",
     "demo": "http://flowbite-svelte.vercel.app/"
@@ -467,7 +611,11 @@
     "id": 51,
     "title": "Sveltekit Stripe",
     "slug": "sveltekit-stripe",
-    "categories": ["UI", "plugin", "sveltekit"],
+    "categories": [
+      "UI",
+      "plugin",
+      "sveltekit"
+    ],
     "description": "Integrating SvelteKit and Stripe Checkout",
     "repo": "https://github.com/srmullen/sveltekit-stripe",
     "demo": "https://sveltekit-stripe.netlify.app/"
@@ -476,7 +624,13 @@
     "id": 52,
     "title": "Sv Popup",
     "slug": "sv-popup",
-    "categories": ["UI", "plugin", "sveltekit", "modal", "popup"],
+    "categories": [
+      "UI",
+      "plugin",
+      "sveltekit",
+      "modal",
+      "popup"
+    ],
     "description": "A simple popup/modal for svelte/sveltekit apps",
     "repo": "https://github.com/sharu725/sv-popup",
     "demo": "https://sv-popup.sveltethemes.dev"
@@ -485,7 +639,12 @@
     "id": 53,
     "title": "Svelte youtube Embed",
     "slug": "youtube-embed",
-    "categories": ["UI", "plugin", "sveltekit", "youtube"],
+    "categories": [
+      "UI",
+      "plugin",
+      "sveltekit",
+      "youtube"
+    ],
     "description": "Embeds a clickable youtube thumbnail instead of the iframe. Upon clicking, loads the iframe.",
     "repo": "https://github.com/sharu725/youtube-embed",
     "demo": "https://embed.sveltethemes.dev"
@@ -494,9 +653,98 @@
     "id": 54,
     "title": "SvelteUI",
     "slug": "svelteui",
-    "categories": ["UI", "plugin", "sveltekit", "svelte"],
+    "categories": [
+      "UI",
+      "plugin",
+      "sveltekit",
+      "svelte"
+    ],
     "description": "SvelteUI is a component library for building fully functional & accessible web applications faster than ever",
     "repo": "https://github.com/Brisklemonade/svelteui",
     "demo": "https://svelteui-docs.vercel.app/"
+  },
+  {
+    "id": 55,
+    "title": "Svend3r",
+    "slug": "svend3r",
+    "categories": [
+      "chart",
+      "plugin"
+    ],
+    "description": "Interactive plug and play charting library for Svelte",
+    "repo": "https://github.com/oslabs-beta/svend3r",
+    "demo": "https://svend3r.dev/"
+  },
+  {
+    "id": 56,
+    "title": "Svelte French Toast",
+    "slug": "svelte-french-toast",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "Buttery smooth toast notifications for Svelte",
+    "repo": "https://github.com/kbrgl/svelte-french-toast",
+    "demo": "https://svelte-french-toast.com/"
+  },
+  {
+    "id": 56,
+    "title": "Svooltip",
+    "slug": "svooltip",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "A basic Svelte tooltip directive.",
+    "repo": "https://github.com/Gibbu/svooltip",
+    "demo": "https://svooltip.vercel.app/"
+  },
+  {
+    "id": 57,
+    "title": "Svelte Brick Gallery",
+    "slug": "svelte-brick-gallery",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "A masonry-like image gallery component for Svelte",
+    "repo": "https://github.com/anotherempty/svelte-brick-gallery",
+    "demo": "https://anotherempty.github.io/svelte-brick-gallery/"
+  },
+  {
+    "id": 58,
+    "title": "Svelte Brick Gallery",
+    "slug": "svelte-brick-gallery",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "A masonry-like image gallery component for Svelte",
+    "repo": "https://github.com/anotherempty/svelte-brick-gallery",
+    "demo": "https://anotherempty.github.io/svelte-brick-gallery/"
+  },
+  {
+    "id": 59,
+    "title": "Slidy",
+    "slug": "slidy",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "Sliding action script",
+    "repo": "https://github.com/Valexr/Slidy",
+    "demo": "https://slidy-core.surge.sh/"
+  },
+  {
+    "id": 60,
+    "title": "Svelte Confetti",
+    "slug": "svelte-confetti",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "Celebrate things with some extra flair. Animates using just HTML and CSS meaning it can work with SSR in SvelteKit!",
+    "repo": "https://github.com/Mitcheljager/svelte-confetti",
+    "demo": "https://mitcheljager.github.io/svelte-confetti/"
   }
 ]
