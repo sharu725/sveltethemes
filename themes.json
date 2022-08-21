@@ -230,5 +230,14 @@
     "description": "A minimal content focussed sveltekit template.",
     "repo": "https://github.com/sharu725/chola",
     "demo": "https://chola.sveltethemes.dev/"
+  },
+  {
+    "id": 25,
+    "title": "QWER",
+    "slug": "qwer",
+    "categories": ["sveltekit", "markdown", "unocss"],
+    "description": "Simply Awesome Blog Starter built with Svelte and ❤.",
+    "repo": "https://github.com/kwchang0831/svelte-QWER",
+    "demo": "https://svelte-qwer.vercel.app/"
   }
 ]
