@@ -661,7 +661,7 @@
     ],
     "description": "SvelteUI is a component library for building fully functional & accessible web applications faster than ever",
     "repo": "https://github.com/Brisklemonade/svelteui",
-    "demo": "https://svelteui-docs.vercel.app/"
+    "demo": "https://svelteui-docs.vercel.app"
   },
   {
     "id": 55,
@@ -673,7 +673,7 @@
     ],
     "description": "Interactive plug and play charting library for Svelte",
     "repo": "https://github.com/oslabs-beta/svend3r",
-    "demo": "https://svend3r.dev/"
+    "demo": "https://svend3r.dev"
   },
   {
     "id": 56,
@@ -685,7 +685,7 @@
     ],
     "description": "Buttery smooth toast notifications for Svelte",
     "repo": "https://github.com/kbrgl/svelte-french-toast",
-    "demo": "https://svelte-french-toast.com/"
+    "demo": "https://svelte-french-toast.com"
   },
   {
     "id": 56,
@@ -697,7 +697,7 @@
     ],
     "description": "A basic Svelte tooltip directive.",
     "repo": "https://github.com/Gibbu/svooltip",
-    "demo": "https://svooltip.vercel.app/"
+    "demo": "https://svooltip.vercel.app"
   },
   {
     "id": 57,
@@ -709,7 +709,7 @@
     ],
     "description": "A masonry-like image gallery component for Svelte",
     "repo": "https://github.com/anotherempty/svelte-brick-gallery",
-    "demo": "https://anotherempty.github.io/svelte-brick-gallery/"
+    "demo": "https://anotherempty.github.io/svelte-brick-gallery"
   },
   {
     "id": 58,
@@ -721,7 +721,7 @@
     ],
     "description": "A masonry-like image gallery component for Svelte",
     "repo": "https://github.com/anotherempty/svelte-brick-gallery",
-    "demo": "https://anotherempty.github.io/svelte-brick-gallery/"
+    "demo": "https://anotherempty.github.io/svelte-brick-gallery"
   },
   {
     "id": 59,
@@ -733,7 +733,7 @@
     ],
     "description": "Sliding action script",
     "repo": "https://github.com/Valexr/Slidy",
-    "demo": "https://slidy-core.surge.sh/"
+    "demo": "https://slidy-core.surge.sh"
   },
   {
     "id": 60,
@@ -745,6 +745,17 @@
     ],
     "description": "Celebrate things with some extra flair. Animates using just HTML and CSS meaning it can work with SSR in SvelteKit!",
     "repo": "https://github.com/Mitcheljager/svelte-confetti",
-    "demo": "https://mitcheljager.github.io/svelte-confetti/"
+    "demo": "https://mitcheljager.github.io/svelte-confetti"
+  },
+  {
+    "id": 61,
+    "title": "Short Url Generator",
+    "slug": "short-url-generator",
+    "categories": [
+      "Tool"
+    ],
+    "description": "Short Url Generator made using svelte and ❤️",
+    "repo": "https://github.com/suryamsj/short-url-generator",
+    "demo": "https://shorturlgen.netlify.app"
   }
 ]
