@@ -757,5 +757,17 @@
     "description": "Short Url Generator made using svelte and ❤️",
     "repo": "https://github.com/suryamsj/short-url-generator",
     "demo": "https://shorturlgen.netlify.app"
+  },
+  {
+    "id": 62,
+    "title": "Sv Tooltip",
+    "slug": "sv-tooltip",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "A tooltip utility for Svelte and Sveltekit",
+    "repo": "https://github.com/sharu725/sv-tooltip",
+    "demo": "https://sv-tooltip.sveltethemes.dev"
   }
 ]
