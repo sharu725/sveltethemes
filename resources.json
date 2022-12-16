@@ -769,5 +769,16 @@
     "description": "A tooltip utility for Svelte and Sveltekit",
     "repo": "https://github.com/sharu725/sv-tooltip",
     "demo": "https://sv-tooltip.sveltethemes.dev"
+  },
+  {
+    "id": 63,
+    "title": "Shrink Me",
+    "slug": "shrink-me",
+    "categories": [
+      "Tool"
+    ],
+    "description": "A URL shortner using SvelteKit, TailwindCSS and Redis",
+    "repo": "https://github.com/theetherGit/shrink-me",
+    "demo": "https://www.shrink.theether.live/"
   }
 ]
