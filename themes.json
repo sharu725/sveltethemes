@@ -239,5 +239,14 @@
     "description": "Simply Awesome Blog Starter built with Svelte and ❤.",
     "repo": "https://github.com/kwchang0831/svelte-QWER",
     "demo": "https://svelte-qwer.vercel.app/"
+  },
+  {
+    "id": 26,
+    "title": "Tablog",
+    "slug": "tablog-svelte",
+    "categories": ["sveltekit", "markdown"],
+    "description": "A minimalistic blog theme built with SvelteKit.",
+    "repo": "https://github.com/lemmon/tablog-svelte",
+    "demo": "https://tablogdemo.vercel.app/"
   }
 ]
