@@ -792,5 +792,78 @@
     "description": "Reusable component library",
     "repo": "https://github.com/rossrobino/components",
     "demo": "https://components.robino.dev/"
+  },
+  {
+    "id": 65,
+    "title": "Svelte Form Helper",
+    "slug": "svelte-form-helper",
+    "categories": [
+      "plugin",
+      "forms"
+    ],
+    "description": "Lightweight helpers for form validation with Svelte",
+    "repo": "https://github.com/CaptainCodeman/svelte-form-helper",
+    "demo": "https://captaincodeman.github.io/svelte-form-helper/"
+  },
+  {
+    "id": 66,
+    "title": "TeilUI",
+    "slug": "teil-ui",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "A high quality, comprehensive svelte headless low-level UI component library...",
+    "repo": "https://github.com/sidharth-anand/teil-ui",
+    "demo": "https://sidharth-anand.github.io/teil-ui"
+  },
+  {
+    "id": 67,
+    "title": "Neodrag",
+    "slug": "neodrag",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "One Draggable to rule them all",
+    "repo": "https://github.com/puruvj/neodrag",
+    "demo": "https://neodrag.dev/"
+  },
+  {
+    "id": 68,
+    "title": "Svelvet",
+    "slug": "Svelvet",
+    "categories": [
+      "UI",
+      "flow",
+      "plugin"
+    ],
+    "description": "A lightweight Svelte component library for building interactive node-based flow diagrams",
+    "repo": "https://github.com/open-source-labs/Svelvet",
+    "demo": "https://svelvet.io/"
+  },
+  {
+    "id": 69,
+    "title": "Svelte Inview",
+    "slug": "svelte-inview",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "A Svelte action that monitors an element enters or leaves the viewport",
+    "repo": "https://github.com/maciekgrzybek/svelte-inview",
+    "demo": "https://svelte-inview.netlify.app/"
+  },
+  {
+    "id": 70,
+    "title": "html2svelte",
+    "slug": "html-to-svelte",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "Convert HTML to Svelte components in a snap",
+    "repo": "https://github.com/drbh/html2svelte",
+    "demo": "https://drbh.github.io/html2svelte/"
   }
 ]
