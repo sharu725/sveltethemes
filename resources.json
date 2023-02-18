@@ -822,7 +822,6 @@
     "title": "Neodrag",
     "slug": "neodrag",
     "categories": [
-      "UI",
       "plugin"
     ],
     "description": "One Draggable to rule them all",
@@ -859,11 +858,22 @@
     "title": "html2svelte",
     "slug": "html-to-svelte",
     "categories": [
-      "UI",
-      "plugin"
+      "Tool"
     ],
     "description": "Convert HTML to Svelte components in a snap",
     "repo": "https://github.com/drbh/html2svelte",
     "demo": "https://drbh.github.io/html2svelte/"
+  },
+  {
+    "id": 71,
+    "title": "skeleton",
+    "slug": "skeleton",
+    "categories": [
+      "UI",
+      "plugin"
+    ],
+    "description": "A UI toolkit for Svelte + Tailwind.",
+    "repo": "https://github.com/skeletonlabs/skeleton",
+    "demo": "https://skeleton.dev"
   }
 ]
