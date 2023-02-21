@@ -1,252 +1,106 @@
 [
-  {
-    "id": 11,
-    "title": "Notus Svelte",
-    "slug": "Notus-Svelte",
-    "categories": ["tailwind"],
-    "description": "A beautiful UI Kit and Admin for Tailwind CSS and Svelte.",
-    "demo": "https://demos.creative-tim.com/notus-svelte",
-    "repo": "https://github.com/creativetimofficial/notus-svelte"
-  },
-  {
-    "id": 1,
-    "title": "Hagura SvelteKit Theme",
-    "slug": "Hagura",
-    "categories": ["sveltekit", "markdown", "tailwind"],
-    "description": "A minimal sveltekit theme for highly legible pages.",
-    "demo": "https://hagura-sveltekit.netlify.app/",
-    "repo": "https://github.com/sharu725/hagura-sveltekit"
-  },
-  {
-    "id": 2,
-    "title": "Sveltekit Mdsvex Blog",
-    "slug": "Sveltekit-Mdsvex-Blog",
-    "categories": ["sveltekit", "markdown"],
-    "description": "A minimalistic blog template built with SvelteKit and MDsveX",
-    "demo": "https://sveltekit-mdsvex-blog.netlify.app/",
-    "repo": "https://github.com/mvasigh/sveltekit-mdsvex-blog"
-  },
-  {
-    "id": 3,
-    "title": "Routify Starter",
-    "slug": "Routify-Starter",
-    "categories": ["routify"],
-    "description": "Starter template for Routify.",
-    "demo": "https://example.routify.dev/",
-    "repo": "https://github.com/roxiness/routify-starter"
-  },
-  {
-    "id": 4,
-    "title": "Routify Tailwind",
-    "slug": "Routify-Tailwind",
-    "categories": ["routify", "tailwind"],
-    "description": "Use Routify with Tailwind CSS.",
-    "demo": "https://routify-tailwind.vercel.app/",
-    "repo": "https://github.com/lamualfa/routify-tailwind"
-  },
-  {
-    "id": 12,
-    "title": "Elderjs Template",
-    "slug": "Elderjs-Template",
-    "categories": ["elderjs", "ssg"],
-    "description": "Elder.js template project. It is part template, part tutorial. Dive in!",
-    "demo": "https://elderjs.netlify.app/",
-    "repo": "https://github.com/Elderjs/template"
-  },
-  {
-    "id": 5,
-    "title": "Svelte Storybook Tailwind",
-    "slug": "Svelte-Storybook-Tailwind",
-    "categories": ["tailwind"],
-    "description": "A starter template for Svelte, TailwindCSS and Storybook.",
-    "demo": "https://svelte-tailwindcss-storybook.netlify.com/",
-    "repo": "https://github.com/jerriclynsjohn/svelte-storybook-tailwind"
-  },
-  {
-    "id": 6,
-    "title": "Sapper Stunning Theme",
-    "slug": "Sapper-Stunning-Theme",
-    "categories": ["sapper"],
-    "description": "Static Site/Blog built with Sapper/Svelte.",
-    "demo": "https://stunning-theme.netlify.com/",
-    "repo": "https://github.com/apvarun/sapper-stunning-theme"
-  },
-  {
-    "id": 7,
-    "title": "Sveltekit Electron",
-    "slug": "sveltekit-electron",
-    "categories": ["app", "desktop"],
-    "description": "Minimal Sveltekit + Electron starter template.",
-    "repo": "https://github.com/FractalHQ/sveltekit-electron"
-  },
-  {
-    "id": 8,
-    "title": "SveltePress",
-    "slug": "sveltepress",
-    "categories": ["ssg", "docs"],
-    "description": "Documentation for humans.",
-    "demo": "https://sveltepress.geopjr.dev/",
-    "repo": "https://github.com/GeopJr/SveltePress"
-  },
-  {
-    "id": 9,
-    "title": "Svelte + TS + Tailwind app",
-    "slug": "svelte-ts-tailwind-template",
-    "categories": ["svelte", "tailwind", "typescript"],
-    "description": "Svelte (v3) app template with TypeScript and TailwindCSS.",
-    "repo": "https://github.com/colinbate/svelte-ts-tailwind-template"
-  },
-  {
-    "id": 10,
-    "title": "Routify Notus",
-    "slug": "routify-notus",
-    "categories": ["routify", "tailwind"],
-    "description": "Notus Svelte starter template with Routify",
-    "repo": "https://github.com/azlkiniue/routify-notus"
-  },
-  {
-    "id": 12,
-    "title": "Sveltekit Starter",
-    "slug": "sveltekit-starter",
-    "categories": ["sveltekit", "tailwind", "typescript", "scss"],
-    "description": "Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook.",
-    "repo": "https://github.com/navneetsharmaui/sveltekit-starter",
-    "demo": "https://sveltekit-starter-one.vercel.app/"
-  },
-  {
-    "id": 13,
-    "title": "Sveltekit Blog Starter",
-    "slug": "sveltekit-blog",
-    "categories": ["sveltekit", "tailwind", "typescript", "scss"],
-    "description": "Sveltekit blog starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook.",
-    "repo": "https://github.com/navneetsharmaui/sveltekit-blog",
-    "demo": "https://sveltekit-blog-starter.vercel.app/"
-  },
-  {
-    "id": 14,
-    "title": "swyxkit!",
-    "slug": "swyxkit",
-    "categories": ["sveltekit", "tailwind", "netlify", "github"],
-    "description": "An opinionated blog starter for SvelteKit + Tailwind + Netlify. Refreshed for 2022!",
-    "repo": "https://github.com/sw-yx/swyxkit",
-    "demo": "https://swyxkit.netlify.app/"
-  },
-  {
-    "id": 14,
-    "title": "SvelteKit Blog Demo",
-    "slug": "svelte-kit-blog-demo",
-    "categories": ["sveltekit", "github"],
-    "description": "A demo of a markdown based blog with SvelteKit, deployed to Github Pages.",
-    "repo": "https://github.com/svelteland/svelte-kit-blog-demo",
-    "demo": "https://svelteland.github.io/svelte-kit-blog-demo/"
-  },
-  {
-    "id": 15,
-    "title": "Yuyutsu",
-    "slug": "yuyutsu",
-    "categories": ["sveltekit", "github", "markdown", "markdown"],
-    "description": "A minimal Sveltekit theme with a sidebar.",
-    "repo": "https://github.com/sharu725/yuyutsu",
-    "demo": "https://yuyutsu.sveltethemes.dev/"
-  },
-  {
-    "id": 16,
-    "title": "Directus Sveltekit Blogging Starter",
-    "slug": "directus-sveltekit-blog-starter",
-    "categories": ["UI", "plugin"],
-    "description": "This is a Directus, Sveltekit blogging starter. Also comes with Tailwind (via Windicss) for easy styling!",
-    "repo": "https://github.com/alteredorange/directus-sveltekit-blog-starter",
-    "demo": "https://github.com/alteredorange/directus-sveltekit-blog-starter"
-  },
-  {
-    "id": 17,
-    "title": "Urara",
-    "slug": "urara",
-    "categories": ["sveltekit", "markdown", "windicss", "daisyui"],
-    "description": "Sweet & Powerful SvelteKit Blog Template.",
-    "repo": "https://github.com/importantimport/urara",
-    "demo": "https://urara-docs.netlify.app/"
-  },
-  {
-    "id": 18,
-    "title": "Svelte Starter",
-    "slug": "svelte-starter",
-    "categories": ["sveltekit"],
-    "description": "A Svelte starter template for projects.",
-    "repo": "https://github.com/the-pudding/svelte-starter",
-    "demo": "https://github.com/the-pudding/svelte-starter"
-  },
-  {
-    "id": 19,
-    "title": "Felt Template",
-    "slug": "felt-template",
-    "categories": ["sveltekit"],
-    "description": "a web app template with SvelteKit, Gro, and Felt",
-    "repo": "https://github.com/feltcoop/felt-template",
-    "demo": "https://feltcoop.github.io/felt-template"
-  },
-  {
-    "id": 20,
-    "title": "Sveltekit Smui Template",
-    "slug": "sveltekit-smui-template",
-    "categories": ["sveltekit", "material", "UI"],
-    "description": "SvelteKit Material UI",
-    "repo": "https://github.com/pham/sveltekit-smui-template",
-    "demo": "https://sveltekit-smui-template.aquaron.com/"
-  },
-  {
-    "id": 21,
-    "title": "Swindi",
-    "slug": "swindi",
-    "categories": ["sveltekit", "windicss", "typescript"],
-    "description": "battery packed template / boilerplate to initialize sveltekit app with WindiCSS & Typescript setup sparkles",
-    "repo": "https://github.com/sozonome/swindi",
-    "demo": "https://swindi.sznm.dev/"
-  },
-  {
-    "id": 22,
-    "title": "Sveltekit Ethers Template",
-    "slug": "svelte-kit-ethers-template",
-    "categories": ["sveltekit", "ethers", "tailwind", "web3"],
-    "description": "Typescript Boilerplate for building Ethereum dApps with Svelte Kit, TailwindCSS & Ethers.",
-    "repo": "https://github.com/DecentralisedTech/svelte-kit-ethers-template",
-    "demo": "http://svelte-kit-ethers-boilderplate.vercel.app/"
-  },
-  {
-    "id": 23,
-    "title": "Figs Sveltekit Theme",
-    "slug": "figs-sveltekit-theme",
-    "categories": ["sveltekit", "tailwind", "markdown"],
-    "description": "Figs is a Sveltekit template to showcase your resume, projects, blog etc.",
-    "repo": "https://figs.sveltethemes.dev/blog/documentation",
-    "demo": "https://figs.sveltethemes.dev",
-    "paid": true
-  },
-  {
-    "id": 24,
-    "title": "Chola Sveltekit Template",
-    "slug": "chola-sveltekit-template",
-    "categories": ["sveltekit", "minimal", "markdown"],
-    "description": "A minimal content focussed sveltekit template.",
-    "repo": "https://github.com/sharu725/chola",
-    "demo": "https://chola.sveltethemes.dev/"
-  },
-  {
-    "id": 25,
-    "title": "QWER",
-    "slug": "qwer",
-    "categories": ["sveltekit", "markdown", "unocss"],
-    "description": "Simply Awesome Blog Starter built with Svelte and ❤.",
-    "repo": "https://github.com/kwchang0831/svelte-QWER",
-    "demo": "https://svelte-qwer.vercel.app/"
-  },
-  {
-    "id": 26,
-    "title": "Tablog",
-    "slug": "tablog-svelte",
-    "categories": ["sveltekit", "markdown"],
-    "description": "A minimalistic blog theme built with SvelteKit.",
-    "repo": "https://github.com/lemmon/tablog-svelte",
-    "demo": "https://tablogdemo.vercel.app/"
-  }
+   {
+      "name":"Notus-Svelte",
+      "owner":"creativetimofficial"
+   },
+   {
+      "name":"hagura-sveltekit",
+      "owner":"sharu725"
+   },
+   {
+      "name":"Sveltekit-Mdsvex-Blog",
+      "owner":"mvasigh"
+   },
+   {
+      "name":"Routify-Starter",
+      "owner":"roxiness"
+   },
+   {
+      "name":"Routify-Tailwind",
+      "owner":"lamualfa"
+   },
+   {
+      "name":"elderjs",
+      "owner":"Elderjs"
+   },
+   {
+      "name":"Svelte-Storybook-Tailwind",
+      "owner":"jerriclynsjohn"
+   },
+   {
+      "name":"Sapper-Stunning-Theme",
+      "owner":"apvarun"
+   },
+   {
+      "name":"sveltekit-electron",
+      "owner":"FractalHQ"
+   },
+   {
+      "name":"sveltepress",
+      "owner":"GeopJr"
+   },
+   {
+      "name":"svelte-ts-tailwind-template",
+      "owner":"colinbate"
+   },
+   {
+      "name":"routify-notus",
+      "owner":"azlkiniue"
+   },
+   {
+      "name":"sveltekit-starter",
+      "owner":"navneetsharmaui"
+   },
+   {
+      "name":"sveltekit-blog",
+      "owner":"navneetsharmaui"
+   },
+   {
+      "name":"swyxkit",
+      "owner":"sw-yx"
+   },
+   {
+      "name":"svelte-kit-blog-demo",
+      "owner":"svelteland"
+   },
+   {
+      "name":"yuyutsu",
+      "owner":"sharu725"
+   },
+   {
+      "name":"directus-sveltekit-blog-starter",
+      "owner":"alteredorange"
+   },
+   {
+      "name":"urara",
+      "owner":"importantimport"
+   },
+   {
+      "name":"svelte-starter",
+      "owner":"the-pudding"
+   },
+   {
+      "name":"felt-template",
+      "owner":"feltcoop"
+   },
+   {
+      "name":"sveltekit-smui-template",
+      "owner":"pham"
+   },
+   {
+      "name":"svelte-kit-ethers-template",
+      "owner":"DecentralisedTech"
+   },
+   {
+      "name":"chola",
+      "owner":"sharu725"
+   },
+   {
+      "name":"svelte-QWER",
+      "owner":"kwchang0831"
+   },
+   {
+      "name":"tablog-svelte",
+      "owner":"lemmon"
+   }
 ]
