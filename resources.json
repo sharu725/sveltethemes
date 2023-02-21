@@ -209,7 +209,7 @@
    },
    {
       "name":"svelteui",
-      "owner":"Brisklemonade"
+      "owner":"svelteuidev"
    },
    {
       "name":"svend3r",
@@ -278,5 +278,17 @@
    {
       "name":"skeleton",
       "owner":"skeletonlabs"
+   },
+   {
+      "name":"svelte-scrollprogress",
+      "owner":"kudadam"
+   },
+   {
+      "name":"konsta",
+      "owner":"konstaui"
+   },
+   {
+      "name":"modal-svelte",
+      "owner":"probablykasper"
    }
 ]
