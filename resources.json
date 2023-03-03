@@ -1,294 +1,342 @@
 [
    {
-      "name":"sveltesociety.dev",
-      "owner":"svelte-society"
+      "name": "sveltesociety.dev",
+      "owner": "svelte-society"
    },
    {
-      "name":"awesome-svelte",
-      "owner":"TheComputerM"
+      "name": "awesome-svelte",
+      "owner": "TheComputerM"
    },
    {
-      "name":"awesome-svelte",
-      "owner":"rocketlaunchr"
+      "name": "awesome-svelte",
+      "owner": "rocketlaunchr"
    },
    {
-      "name":"svelte-awesome",
-      "owner":"RobBrazier"
+      "name": "svelte-awesome",
+      "owner": "RobBrazier"
    },
    {
-      "name":"sveltestrap",
-      "owner":"bestguy"
+      "name": "sveltestrap",
+      "owner": "bestguy"
    },
    {
-      "name":"svelte-routing",
-      "owner":"EmilTholin"
+      "name": "svelte-routing",
+      "owner": "EmilTholin"
    },
    {
-      "name":"svelte-nodegui",
-      "owner":"nodegui"
+      "name": "svelte-nodegui",
+      "owner": "nodegui"
    },
    {
-      "name":"svelte-material-ui",
-      "owner":"hperrin"
+      "name": "svelte-material-ui",
+      "owner": "hperrin"
    },
    {
-      "name":"bytemd",
-      "owner":"bytedance"
+      "name": "bytemd",
+      "owner": "bytedance"
    },
    {
-      "name":"smelte",
-      "owner":"matyunya"
+      "name": "smelte",
+      "owner": "matyunya"
    },
    {
-      "name":"selecto",
-      "owner":"daybrush"
+      "name": "selecto",
+      "owner": "daybrush"
    },
    {
-      "name":"carbon-components-svelte",
-      "owner":"IBM"
+      "name": "carbon-components-svelte",
+      "owner": "IBM"
    },
    {
-      "name":"MDsveX",
-      "owner":"pngwn"
+      "name": "MDsveX",
+      "owner": "pngwn"
    },
    {
-      "name":"pancake",
-      "owner":"Rich-Harris"
+      "name": "pancake",
+      "owner": "Rich-Harris"
    },
    {
-      "name":"plenti",
-      "owner":"plentico"
+      "name": "plenti",
+      "owner": "plentico"
    },
    {
-      "name":"svelte-grid",
-      "owner":"vaheqelyan"
+      "name": "svelte-grid",
+      "owner": "vaheqelyan"
    },
    {
-      "name":"svelte-select",
-      "owner":"rob-balfre"
+      "name": "svelte-select",
+      "owner": "rob-balfre"
    },
    {
-      "name":"layercake",
-      "owner":"mhkeller"
+      "name": "layercake",
+      "owner": "mhkeller"
    },
    {
-      "name":"svelte-add",
-      "owner":"svelte-add"
+      "name": "svelte-add",
+      "owner": "svelte-add"
    },
    {
-      "name":"svelte-table",
-      "owner":"dasDaniel"
+      "name": "svelte-table",
+      "owner": "dasDaniel"
    },
    {
-      "name":"proi-ui",
-      "owner":"specialdoom"
+      "name": "proi-ui",
+      "owner": "specialdoom"
    },
    {
-      "name":"filepond",
-      "owner":"pqina"
+      "name": "filepond",
+      "owner": "pqina"
    },
    {
-      "name":"svelthree",
-      "owner":"vatro"
+      "name": "svelthree",
+      "owner": "vatro"
    },
    {
-      "name":"poi",
-      "owner":"egoist"
+      "name": "poi",
+      "owner": "egoist"
    },
    {
-      "name":"svelte-preprocess",
-      "owner":"sveltejs"
+      "name": "svelte-preprocess",
+      "owner": "sveltejs"
    },
    {
-      "name":"why-svelte",
-      "owner":"feltcoop"
+      "name": "why-svelte",
+      "owner": "feltcoop"
    },
    {
-      "name":"svelte-forms-lib",
-      "owner":"tjinauyeung"
+      "name": "svelte-forms-lib",
+      "owner": "tjinauyeung"
    },
    {
-      "name":"houdini",
-      "owner":"AlecAivazis"
+      "name": "houdini",
+      "owner": "AlecAivazis"
    },
    {
-      "name":"sk-auth",
-      "owner":"Dan6erbond"
+      "name": "sk-auth",
+      "owner": "Dan6erbond"
    },
    {
-      "name":"svelte-inview",
-      "owner":"maciekgrzybek"
+      "name": "svelte-inview",
+      "owner": "maciekgrzybek"
    },
    {
-      "name":"ruler",
-      "owner":"daybrush"
+      "name": "ruler",
+      "owner": "daybrush"
    },
    {
-      "name":"svelteit",
-      "owner":"erictherobot"
+      "name": "svelteit",
+      "owner": "erictherobot"
    },
    {
-      "name":"svelte-seo",
-      "owner":"artiebits"
+      "name": "svelte-seo",
+      "owner": "artiebits"
    },
    {
-      "name":"attractions",
-      "owner":"illright"
+      "name": "attractions",
+      "owner": "illright"
    },
    {
-      "name":"svelte-accessible-accordion",
-      "owner":"metonym"
+      "name": "svelte-accessible-accordion",
+      "owner": "metonym"
    },
    {
-      "name":"svelte-slider",
-      "owner":"BulatDashiev"
+      "name": "svelte-slider",
+      "owner": "BulatDashiev"
    },
    {
-      "name":"date-picker-svelte",
-      "owner":"probablykasper"
+      "name": "date-picker-svelte",
+      "owner": "probablykasper"
    },
    {
-      "name":"spaper",
-      "owner":"Oli8"
+      "name": "spaper",
+      "owner": "Oli8"
    },
    {
-      "name":"gQuery",
-      "owner":"leveluptuts"
+      "name": "gQuery",
+      "owner": "leveluptuts"
    },
    {
-      "name":"fluent-svelte",
-      "owner":"Tropix126"
+      "name": "fluent-svelte",
+      "owner": "Tropix126"
    },
    {
-      "name":"svelte-meta-tags",
-      "owner":"oekazuma"
+      "name": "svelte-meta-tags",
+      "owner": "oekazuma"
    },
    {
-      "name":"svelte-outclick",
-      "owner":"babakfp"
+      "name": "svelte-outclick",
+      "owner": "babakfp"
    },
    {
-      "name":"svelte-themes",
-      "owner":"beynar"
+      "name": "svelte-themes",
+      "owner": "beynar"
    },
    {
-      "name":"svelte-yup",
-      "owner":"KamyarLajani"
+      "name": "svelte-yup",
+      "owner": "KamyarLajani"
    },
    {
-      "name":"svelte-sitemap",
-      "owner":"bartholomej"
+      "name": "svelte-sitemap",
+      "owner": "bartholomej"
    },
    {
-      "name":"svemix",
-      "owner":"svemix"
+      "name": "svemix",
+      "owner": "svemix"
    },
    {
-      "name":"as-toast",
-      "owner":"SarcevicAntonio"
+      "name": "as-toast",
+      "owner": "SarcevicAntonio"
    },
    {
-      "name":"egjs-infinitegrid",
-      "owner":"naver"
+      "name": "egjs-infinitegrid",
+      "owner": "naver"
    },
    {
-      "name":"flowbite-svelte",
-      "owner":"shinokada"
+      "name": "flowbite-svelte",
+      "owner": "shinokada"
    },
    {
-      "name":"sveltekit-stripe",
-      "owner":"srmullen"
+      "name": "sveltekit-stripe",
+      "owner": "srmullen"
    },
    {
-      "name":"sv-popup",
-      "owner":"sharu725"
+      "name": "sv-popup",
+      "owner": "sharu725"
    },
    {
-      "name":"youtube-embed",
-      "owner":"sharu725"
+      "name": "youtube-embed",
+      "owner": "sharu725"
    },
    {
-      "name":"svelteui",
-      "owner":"svelteuidev"
+      "name": "svelteui",
+      "owner": "svelteuidev"
    },
    {
-      "name":"svend3r",
-      "owner":"oslabs-beta"
+      "name": "svend3r",
+      "owner": "oslabs-beta"
    },
    {
-      "name":"svelte-french-toast",
-      "owner":"kbrgl"
+      "name": "svelte-french-toast",
+      "owner": "kbrgl"
    },
    {
-      "name":"svooltip",
-      "owner":"Gibbu"
+      "name": "svooltip",
+      "owner": "Gibbu"
    },
    {
-      "name":"svelte-brick-gallery",
-      "owner":"anotherempty"
+      "name": "svelte-brick-gallery",
+      "owner": "anotherempty"
    },
    {
-      "name":"svelte-brick-gallery",
-      "owner":"anotherempty"
+      "name": "svelte-brick-gallery",
+      "owner": "anotherempty"
    },
    {
-      "name":"Slidy",
-      "owner":"Valexr"
+      "name": "Slidy",
+      "owner": "Valexr"
    },
    {
-      "name":"svelte-confetti",
-      "owner":"Mitcheljager"
+      "name": "svelte-confetti",
+      "owner": "Mitcheljager"
    },
    {
-      "name":"short-url-generator",
-      "owner":"suryamsj"
+      "name": "short-url-generator",
+      "owner": "suryamsj"
    },
    {
-      "name":"sv-tooltip",
-      "owner":"sharu725"
+      "name": "sv-tooltip",
+      "owner": "sharu725"
    },
    {
-      "name":"shrink-me",
-      "owner":"theetherGit"
+      "name": "shrink-me",
+      "owner": "theetherGit"
    },
    {
-      "name":"components",
-      "owner":"rossrobino"
+      "name": "components",
+      "owner": "rossrobino"
    },
    {
-      "name":"svelte-form-helper",
-      "owner":"CaptainCodeman"
+      "name": "svelte-form-helper",
+      "owner": "CaptainCodeman"
    },
    {
-      "name":"teil-ui",
-      "owner":"sidharth-anand"
+      "name": "teil-ui",
+      "owner": "sidharth-anand"
    },
    {
-      "name":"neodrag",
-      "owner":"puruvj"
+      "name": "neodrag",
+      "owner": "puruvj"
    },
    {
-      "name":"Svelvet",
-      "owner":"open-source-labs"
+      "name": "Svelvet",
+      "owner": "open-source-labs"
    },
    {
-      "name":"svelte-inview",
-      "owner":"maciekgrzybek"
+      "name": "svelte-inview",
+      "owner": "maciekgrzybek"
    },
    {
-      "name":"skeleton",
-      "owner":"skeletonlabs"
+      "name": "skeleton",
+      "owner": "skeletonlabs"
    },
    {
-      "name":"svelte-scrollprogress",
-      "owner":"kudadam"
+      "name": "svelte-scrollprogress",
+      "owner": "kudadam"
    },
    {
-      "name":"konsta",
-      "owner":"konstaui"
+      "name": "konsta",
+      "owner": "konstaui"
    },
    {
-      "name":"modal-svelte",
-      "owner":"probablykasper"
+      "name": "modal-svelte",
+      "owner": "probablykasper"
+   },
+   {
+      "name": "svelte-radial-menu",
+      "owner": "tglide"
+   },
+   {
+      "name": "grail-ui",
+      "owner": "grail-ui"
+   },
+   {
+      "name": "svelte-image-comparison",
+      "owner": "captaincodeman"
+   },
+   {
+      "name": "simple-font-select",
+      "owner": "ThaUnknown"
+   },
+   {
+      "name": "svelte-datatables-net",
+      "owner": "joaquimnetocel"
+   },
+   {
+      "name": "svelte-algolia-instantsearch",
+      "owner": "aymeric-giraudet"
+   },
+   {
+      "name": "svoast",
+      "owner": "Gibbu"
+   },
+   {
+      "name": "svelte-otp",
+      "owner": "K4UNG"
+   },
+   {
+      "name": "trace-svelte",
+      "owner": "zeucapua"
+   },
+   {
+      "name": "svelte-auth-ui",
+      "owner": "multiplehats"
+   },
+   {
+      "name": "kit-docs",
+      "owner": "svelteness"
+   },
+   {
+      "name": "svelte-signature-pad",
+      "owner": "captaincodeman"
    }
 ]
