@@ -106,5 +106,9 @@
    {
       "name": "kit-docs",
       "owner": "svelteness"
+   },
+   {
+      "name": "svelte-pwa",
+      "owner": "tretapey"
    }
 ]

@@ -334,5 +334,21 @@
    {
       "name": "svelte-signature-pad",
       "owner": "captaincodeman"
+   },
+   {
+      "name": "svelte-tags-input",
+      "owner": "agustinl"
+   },
+   {
+      "name": "histoire",
+      "owner": "histoire-dev"
+   },
+   {
+      "name": "svelte-headlessui",
+      "owner": "rgossiaux"
+   },
+   {
+      "name": "svelte-calendar",
+      "owner": "6eDesign"
    }
 ]
