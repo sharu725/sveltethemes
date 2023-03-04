@@ -350,5 +350,33 @@
    {
       "name": "svelte-calendar",
       "owner": "6eDesign"
+   },
+   {
+      "name": "svelte-put",
+      "owner": "vnphanquang"
+   },
+   {
+      "name": "svelte-headless-table",
+      "owner": "bryanmylee"
+   },
+   {
+      "name": "svelte-autocomplete",
+      "owner": "elcobvg"
+   },
+   {
+      "name": "svelte-mindmap",
+      "owner": "heithemmoumni"
+   },
+   {
+      "name": "svelte-carousel",
+      "owner": "vadimkorr"
+   },
+   {
+      "name": "powertable",
+      "owner": "muonw"
+   },
+   {
+      "name": "svelte-progressbar",
+      "owner": "okrad"
    }
 ]
