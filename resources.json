@@ -378,5 +378,21 @@
    {
       "name": "svelte-progressbar",
       "owner": "okrad"
+   },
+   {
+      "name": "svelte-infinite-scroll",
+      "owner": "andrelmlins"
+   },
+   {
+      "name": "svelte-portal",
+      "owner": "romkor"
+   },
+   {
+      "name": "svelte-portal",
+      "owner": "romkor"
+   },
+   {
+      "name": "stwui",
+      "owner": "N00nDay"
    }
 ]
