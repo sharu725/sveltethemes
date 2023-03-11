@@ -396,6 +396,22 @@
       "owner": "N00nDay"
    },
    {
+      "name": "SvelteStorm",
+      "owner": "open-source-labs"
+   },
+   {
+      "name": "svelte-apollo",
+      "owner": "timhall"
+   },
+   {
+      "name": "sveltefire",
+      "owner": "codediodeio"
+   },
+   {
+      "name": "svelte-i18n",
+      "owner": "kaisermann"
+   },
+   {
       "name": "svelte-split-pane",
       "owner": "Rich-Harris"
    }
