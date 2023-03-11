@@ -394,5 +394,9 @@
    {
       "name": "stwui",
       "owner": "N00nDay"
+   },
+   {
+      "name": "svelte-split-pane",
+      "owner": "Rich-Harris"
    }
 ]
