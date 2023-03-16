@@ -414,5 +414,9 @@
    {
       "name": "svelte-split-pane",
       "owner": "Rich-Harris"
+   },
+   {
+      "name": "svelte-commerce",
+      "owner": "itswadesh"
    }
 ]
