@@ -118,5 +118,9 @@
    {
       "name": "slick-portfolio-svelte",
       "owner": "RiadhAdrani"
+   },
+   {
+      "name": "sveltekit-landing-daisy",
+      "owner": "engageintellect"
    }
 ]
