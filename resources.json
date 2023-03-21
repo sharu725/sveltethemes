@@ -418,5 +418,9 @@
    {
       "name": "svelte-commerce",
       "owner": "itswadesh"
+   },
+   {
+      "name": "ai-chatbot-openai-sveltekit-boilerplate-1",
+      "owner": "AiHiPUniversity"
    }
 ]

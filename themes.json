@@ -114,5 +114,9 @@
    {
       "name": "enterprise-stack",
       "owner": "joysofcode"
+   },
+   {
+      "name": "slick-portfolio-svelte",
+      "owner": "RiadhAdrani"
    }
 ]
