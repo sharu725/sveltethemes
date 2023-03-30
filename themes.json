@@ -122,5 +122,13 @@
    {
       "name": "sveltekit-landing-daisy",
       "owner": "engageintellect"
+   },
+   {
+      "name": "sveltekit-lucia-starter",
+      "owner": "qwacko"
+   },
+   {
+      "name": "svelte-notion",
+      "owner": "tiodot"
    }
 ]
