@@ -64,10 +64,6 @@
       "owner": "svelteland"
    },
    {
-      "name": "yuyutsu",
-      "owner": "sharu725"
-   },
-   {
       "name": "directus-sveltekit-blog-starter",
       "owner": "alteredorange"
    },
@@ -130,5 +126,13 @@
    {
       "name": "svelte-notion",
       "owner": "tiodot"
+   },
+   {
+      "name": "yuyutsu",
+      "owner": "sharu725"
+   },
+   {
+      "name": "salvia-kit",
+      "owner": "salvia-kit"
    }
 ]
