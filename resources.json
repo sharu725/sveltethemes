@@ -426,5 +426,13 @@
    {
       "name": "svelte-legos",
       "owner": "ankurrsinghal"
+   },
+   {
+      "name": "svelte-img",
+      "owner": "zerodevx"
+   },
+   {
+      "name": "slickgpt",
+      "owner": "ShipBit"
    }
 ]
