@@ -134,5 +134,25 @@
    {
       "name": "salvia-kit",
       "owner": "salvia-kit"
+   },
+   {
+      "name": "tpl-svelte",
+      "owner": "wappon-28-dev"
+   },
+   {
+      "name": "templatus-inertia",
+      "owner": "templatus"
+   },
+   {
+      "name": "webapp-template",
+      "owner": "usagizmo"
+   },
+   {
+      "name": "estatete",
+      "owner": "h1vitor"
+   },
+   {
+      "name": "portfolio",
+      "owner": "ObserverOfTime"
    }
 ]
