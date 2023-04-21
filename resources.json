@@ -438,5 +438,13 @@
    {
       "name": "svelte-stepper",
       "owner": "efstajas"
+   },
+   {
+      "name": "sveltekit-svg",
+      "owner": "poppa"
+   },
+   {
+      "name": "sveltekit-superforms",
+      "owner": "ciscoheat"
    }
 ]
