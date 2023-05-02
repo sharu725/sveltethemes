@@ -446,5 +446,29 @@
    {
       "name": "sveltekit-superforms",
       "owner": "ciscoheat"
+   },
+   {
+      "name": "sveltris",
+      "owner": "mokshit06"
+   },
+   {
+      "name": "swiftmarket-sveltekit",
+      "owner": "SwiftMarket"
+   },
+   {
+      "name": "svelte-animated-headline",
+      "owner": "elron"
+   },
+   {
+      "name": "Socio",
+      "owner": "Rolands-Laucis"
+   },
+   {
+      "name": "wundergraph",
+      "owner": "wundergraph"
+   },
+   {
+      "name": "lucia",
+      "owner": "pilcrowOnPaper"
    }
 ]
