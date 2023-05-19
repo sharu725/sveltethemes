@@ -470,5 +470,9 @@
    {
       "name": "lucia",
       "owner": "pilcrowOnPaper"
+   },
+   {
+      "name": "trpc-sveltekit",
+      "owner": "icflorescu"
    }
 ]
