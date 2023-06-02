@@ -474,5 +474,17 @@
    {
       "name": "trpc-sveltekit",
       "owner": "icflorescu"
+   },
+   {
+      "name": "svelte-maplibre",
+      "owner": "dimfeld"
+   },
+   {
+      "name": "editable-website",
+      "owner": "michael"
+   },
+   {
+      "name": "svelte-zdog",
+      "owner": "wh0am1-dev"
    }
 ]
