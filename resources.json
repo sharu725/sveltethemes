@@ -482,5 +482,13 @@
    {
       "name": "svelte-zdog",
       "owner": "wh0am1-dev"
+   },
+   {
+      "name": "sveltronics",
+      "owner": "vasucp1207"
+   },
+   {
+      "name": "colibri",
+      "owner": "thetinkerinc"
    }
 ]
