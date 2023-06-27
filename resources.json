@@ -490,5 +490,9 @@
    {
       "name": "colibri",
       "owner": "thetinkerinc"
+   },
+   {
+      "name": "svelte-local-storage-store",
+      "owner": "joshnuss"
    }
 ]
