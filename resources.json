@@ -494,5 +494,13 @@
    {
       "name": "svelte-local-storage-store",
       "owner": "joshnuss"
+   },
+   {
+      "name": "shadcn-svelte",
+      "owner": "huntabyte"
+   },
+   {
+      "name": "svelte-form-builder-community",
+      "owner": "pragmatic-engineering"
    }
 ]
