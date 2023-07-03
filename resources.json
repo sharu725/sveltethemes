@@ -502,5 +502,9 @@
    {
       "name": "svelte-form-builder-community",
       "owner": "pragmatic-engineering"
+   },
+   {
+      "name": "svelte-sonner",
+      "owner": "wobsoriano"
    }
 ]
