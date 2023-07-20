@@ -506,5 +506,13 @@
    {
       "name": "svelte-sonner",
       "owner": "wobsoriano"
+   },
+   {
+      "name": "svelecte",
+      "owner": "mskocik"
+   },
+   {
+      "name": "melt-ui",
+      "owner": "melt-ui"
    }
 ]
