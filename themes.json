@@ -154,5 +154,13 @@
    {
       "name": "music",
       "owner": "tguelcan"
+   },
+   {
+      "name": "sveltekit-starter-prismic-minimal",
+      "owner": "prismicio-community"
+   },
+   {
+      "name": "sveltekit-starter-prismic-multi-page",
+      "owner": "prismicio-community"
    }
 ]
