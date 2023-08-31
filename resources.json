@@ -514,5 +514,9 @@
    {
       "name": "melt-ui",
       "owner": "melt-ui"
+   },
+   {
+      "name": "prismic-svelte",
+      "owner": "prismicio"
    }
 ]
