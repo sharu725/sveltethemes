@@ -1,166 +1,170 @@
 [
    {
-      "name": "Notus-Svelte",
-      "owner": "creativetimofficial"
+      "owner": "creativetimofficial",
+      "name": "Notus-Svelte"
    },
    {
-      "name": "hagura-sveltekit",
-      "owner": "sharu725"
+      "owner": "sharu725",
+      "name": "hagura-sveltekit"
    },
    {
-      "name": "Sveltekit-Mdsvex-Blog",
-      "owner": "mvasigh"
+      "owner": "mvasigh",
+      "name": "Sveltekit-Mdsvex-Blog"
    },
    {
-      "name": "Routify-Starter",
-      "owner": "roxiness"
+      "owner": "roxiness",
+      "name": "Routify-Starter"
    },
    {
-      "name": "Routify-Tailwind",
-      "owner": "lamualfa"
+      "owner": "lamualfa",
+      "name": "Routify-Tailwind"
    },
    {
-      "name": "elderjs",
-      "owner": "Elderjs"
+      "owner": "Elderjs",
+      "name": "elderjs"
    },
    {
-      "name": "Svelte-Storybook-Tailwind",
-      "owner": "jerriclynsjohn"
+      "owner": "jerriclynsjohn",
+      "name": "Svelte-Storybook-Tailwind"
    },
    {
-      "name": "Sapper-Stunning-Theme",
-      "owner": "apvarun"
+      "owner": "apvarun",
+      "name": "Sapper-Stunning-Theme"
    },
    {
-      "name": "sveltekit-electron",
-      "owner": "FractalHQ"
+      "owner": "FractalHQ",
+      "name": "sveltekit-electron"
    },
    {
-      "name": "sveltepress",
-      "owner": "GeopJr"
+      "owner": "GeopJr",
+      "name": "sveltepress"
    },
    {
-      "name": "svelte-ts-tailwind-template",
-      "owner": "colinbate"
+      "owner": "colinbate",
+      "name": "svelte-ts-tailwind-template"
    },
    {
-      "name": "routify-notus",
-      "owner": "azlkiniue"
+      "owner": "azlkiniue",
+      "name": "routify-notus"
    },
    {
-      "name": "sveltekit-starter",
-      "owner": "navneetsharmaui"
+      "owner": "navneetsharmaui",
+      "name": "sveltekit-starter"
    },
    {
-      "name": "sveltekit-blog",
-      "owner": "navneetsharmaui"
+      "owner": "navneetsharmaui",
+      "name": "sveltekit-blog"
    },
    {
-      "name": "swyxkit",
-      "owner": "sw-yx"
+      "owner": "sw-yx",
+      "name": "swyxkit"
    },
    {
-      "name": "svelte-kit-blog-demo",
-      "owner": "svelteland"
+      "owner": "svelteland",
+      "name": "svelte-kit-blog-demo"
    },
    {
-      "name": "directus-sveltekit-blog-starter",
-      "owner": "alteredorange"
+      "owner": "alteredorange",
+      "name": "directus-sveltekit-blog-starter"
    },
    {
-      "name": "urara",
-      "owner": "importantimport"
+      "owner": "importantimport",
+      "name": "urara"
    },
    {
-      "name": "svelte-starter",
-      "owner": "the-pudding"
+      "owner": "the-pudding",
+      "name": "svelte-starter"
    },
    {
-      "name": "felt-template",
-      "owner": "feltcoop"
+      "owner": "feltcoop",
+      "name": "felt-template"
    },
    {
-      "name": "sveltekit-smui-template",
-      "owner": "pham"
+      "owner": "pham",
+      "name": "sveltekit-smui-template"
    },
    {
-      "name": "svelte-kit-ethers-template",
-      "owner": "DecentralisedTech"
+      "owner": "DecentralisedTech",
+      "name": "svelte-kit-ethers-template"
    },
    {
-      "name": "chola",
-      "owner": "sharu725"
+      "owner": "sharu725",
+      "name": "chola"
    },
    {
-      "name": "svelte-QWER",
-      "owner": "kwchang0831"
+      "owner": "kwchang0831",
+      "name": "svelte-QWER"
    },
    {
-      "name": "tablog-svelte",
-      "owner": "lemmon"
+      "owner": "lemmon",
+      "name": "tablog-svelte"
    },
    {
-      "name": "kit-docs",
-      "owner": "svelteness"
+      "owner": "svelteness",
+      "name": "kit-docs"
    },
    {
-      "name": "svelte-pwa",
-      "owner": "tretapey"
+      "owner": "tretapey",
+      "name": "svelte-pwa"
    },
    {
-      "name": "enterprise-stack",
-      "owner": "joysofcode"
+      "owner": "joysofcode",
+      "name": "enterprise-stack"
    },
    {
-      "name": "slick-portfolio-svelte",
-      "owner": "RiadhAdrani"
+      "owner": "RiadhAdrani",
+      "name": "slick-portfolio-svelte"
    },
    {
-      "name": "sveltekit-landing-daisy",
-      "owner": "engageintellect"
+      "owner": "engageintellect",
+      "name": "sveltekit-landing-daisy"
    },
    {
-      "name": "sveltekit-lucia-starter",
-      "owner": "qwacko"
+      "owner": "qwacko",
+      "name": "sveltekit-lucia-starter"
    },
    {
-      "name": "svelte-notion",
-      "owner": "tiodot"
+      "owner": "tiodot",
+      "name": "svelte-notion"
    },
    {
-      "name": "yuyutsu",
-      "owner": "sharu725"
+      "owner": "sharu725",
+      "name": "yuyutsu"
    },
    {
-      "name": "salvia-kit",
-      "owner": "salvia-kit"
+      "owner": "salvia-kit",
+      "name": "salvia-kit"
    },
    {
-      "name": "tpl-svelte",
-      "owner": "wappon-28-dev"
+      "owner": "wappon-28-dev",
+      "name": "tpl-svelte"
    },
    {
-      "name": "templatus-inertia",
-      "owner": "templatus"
+      "owner": "templatus",
+      "name": "templatus-inertia"
    },
    {
-      "name": "webapp-template",
-      "owner": "usagizmo"
+      "owner": "usagizmo",
+      "name": "webapp-template"
    },
    {
-      "name": "portfolio",
-      "owner": "ObserverOfTime"
+      "owner": "ObserverOfTime",
+      "name": "portfolio"
    },
    {
-      "name": "music",
-      "owner": "tguelcan"
+      "owner": "tguelcan",
+      "name": "music"
    },
    {
-      "name": "sveltekit-starter-prismic-minimal",
-      "owner": "prismicio-community"
+      "owner": "prismicio-community",
+      "name": "sveltekit-starter-prismic-minimal"
    },
    {
-      "name": "sveltekit-starter-prismic-multi-page",
-      "owner": "prismicio-community"
+      "owner": "prismicio-community",
+      "name": "sveltekit-starter-prismic-multi-page"
+   },
+   {
+      "owner": "lyon93",
+      "name": "svelte-real-estate-landing"
    }
 ]
