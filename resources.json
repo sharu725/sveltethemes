@@ -522,5 +522,13 @@
    {
       "owner": "Obra-Studio",
       "name": "obra-icons-svelte-public"
+   },
+   {
+      "owner": "KTibow",
+      "name": "m3-svelte"
+   },
+   {
+      "owner": "bennymi",
+      "name": "ato-ui"
    }
 ]

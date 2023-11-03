@@ -174,5 +174,9 @@
    {
       "owner": "SimonPrammer",
       "name": "svelte-chat-langchain"
+   },
+   {
+      "owner": "crizmo",
+      "name": "kurizu-dev"
    }
 ]
