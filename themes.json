@@ -170,5 +170,9 @@
    {
       "owner": "sharu725",
       "name": "arjuna"
+   },
+   {
+      "owner": "SimonPrammer",
+      "name": "svelte-chat-langchain"
    }
 ]

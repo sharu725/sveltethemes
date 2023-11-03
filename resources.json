@@ -518,5 +518,9 @@
    {
       "owner": "prismicio",
       "name": "prismic-svelte"
+   },
+   {
+      "owner": "Obra-Studio",
+      "name": "obra-icons-svelte-public"
    }
 ]
