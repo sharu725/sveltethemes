@@ -214,5 +214,21 @@
    {
       "owner": "M1nxy",
       "name": "sveltekit-template"
+   },
+   {
+      "owner": "zummon",
+      "name": "nature-craft-sveltekit"
+   },
+   {
+      "owner": "zummon",
+      "name": "sunlight-interior-sveltekit"
+   },
+   {
+      "owner": "Bjenhamin4Alfredolvchenki",
+      "name": "template-sveltekit-blog-template"
+   },
+   {
+      "owner": "Porter-smith",
+      "name": "astro-firebase-svelte-tailwind-starter"
    }
 ]
