@@ -178,5 +178,37 @@
    {
       "owner": "crizmo",
       "name": "kurizu-dev"
+   },
+   {
+      "owner": "sammynave",
+      "name": "startup"
+   },
+   {
+      "owner": "watergis",
+      "name": "sveltekit-watergis-template"
+   },
+   {
+      "owner": "CitRUSprod",
+      "name": "svelte-kit-website-starter"
+   },
+   {
+      "owner": "xmlking",
+      "name": "spectacular"
+   },
+   {
+      "owner": "rajput-hemant",
+      "name": "sveltekit-template"
+   },
+   {
+      "owner": "Nico-Mayer",
+      "name": "lean-kit"
+   },
+   {
+      "owner": "jranand",
+      "name": "sveltekit-personal-site-starter"
+   },
+   {
+      "owner": "mishankov",
+      "name": "vite-svelte-trpc"
    }
 ]
