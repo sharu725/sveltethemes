@@ -210,5 +210,9 @@
    {
       "owner": "mishankov",
       "name": "vite-svelte-trpc"
+   },
+   {
+      "owner": "M1nxy",
+      "name": "sveltekit-template"
    }
 ]
