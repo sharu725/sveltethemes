@@ -530,5 +530,33 @@
    {
       "owner": "bennymi",
       "name": "ato-ui"
+   },
+   {
+      "owner": "paoloricciuti",
+      "name": "sveltekit-view-transition"
+   },
+   {
+      "owner": "LorisSigrist",
+      "name": "t18s"
+   },
+   {
+      "owner": "xyflow",
+      "name": "xyflow"
+   },
+   {
+      "owner": "jasongitmail",
+      "name": "super-sitemap"
+   },
+   {
+      "owner": "techniq",
+      "name": "svelte-ux"
+   },
+   {
+      "owner": "tombroomfield",
+      "name": "CanIKit"
+   },
+   {
+      "owner": "Team-GOATS",
+      "name": "svelte-toggles-npm-package"
    }
 ]
