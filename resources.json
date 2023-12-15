@@ -558,5 +558,9 @@
    {
       "owner": "Team-GOATS",
       "name": "svelte-toggles-npm-package"
+   },
+   {
+      "owner": "willin",
+      "name": "svelte-turbo"
    }
 ]
