@@ -230,5 +230,21 @@
    {
       "owner": "Porter-smith",
       "name": "astro-firebase-svelte-tailwind-starter"
+   },
+   {
+      "owner": "gomander",
+      "name": "svelte-wheel"
+   },
+   {
+      "owner": "Niravanaa",
+      "name": "SvelteMeet"
+   },
+   {
+      "owner": "cloudybutnorain",
+      "name": "js"
+   },
+   {
+      "owner": "w3bdesign",
+      "name": "sveltekit-chatGPT"
    }
 ]
