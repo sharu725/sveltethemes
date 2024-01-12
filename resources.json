@@ -562,5 +562,13 @@
    {
       "owner": "willin",
       "name": "svelte-turbo"
+   },
+   {
+      "owner": "willin",
+      "name": "svelte-turbo"
+   },
+   {
+      "owner": "lagden",
+      "name": "svelte-dialog"
    }
 ]
