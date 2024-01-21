@@ -246,5 +246,9 @@
    {
       "owner": "w3bdesign",
       "name": "sveltekit-chatGPT"
+   },
+   {
+      "owner": "jahir9991",
+      "name": "sveltekit-cloudflarepages-fullstack"
    }
 ]
