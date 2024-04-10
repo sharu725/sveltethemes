@@ -566,5 +566,13 @@
    {
       "owner": "EMPTYVOID-DEV",
       "name": "Altron"
+   },
+   {
+      "owner": "ghtx280",
+      "name": "blickcss"
+   },
+   {
+      "owner": "oslabs-beta",
+      "name": "Svisualize"
    }
 ]
