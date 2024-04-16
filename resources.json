@@ -574,5 +574,9 @@
    {
       "owner": "oslabs-beta",
       "name": "Svisualize"
+   },
+   {
+      "owner": "prosopo",
+      "name": "captcha"
    }
 ]
