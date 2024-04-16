@@ -578,5 +578,13 @@
    {
       "owner": "prosopo",
       "name": "captcha"
+   },
+   {
+      "owner": "svecosystem",
+      "name": "paneforge"
+   },
+   {
+      "owner": "jill64",
+      "name": "svelte-page-tab"
    }
 ]
