@@ -586,5 +586,9 @@
    {
       "owner": "jill64",
       "name": "svelte-page-tab"
+   },
+   {
+      "owner": "passlock-dev",
+      "name": "svelte-passkeys"
    }
 ]
