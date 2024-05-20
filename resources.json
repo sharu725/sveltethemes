@@ -590,5 +590,9 @@
    {
       "owner": "passlock-dev",
       "name": "svelte-passkeys"
+   },
+   {
+      "owner": "cowboycodr",
+      "name": "KianKit"
    }
 ]
