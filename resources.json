@@ -594,5 +594,9 @@
    {
       "owner": "cowboycodr",
       "name": "KianKit"
+   },
+   {
+      "owner": "svar-widgets",
+      "name": "core"
    }
 ]
