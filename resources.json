@@ -598,5 +598,9 @@
    {
       "owner": "svar-widgets",
       "name": "core"
+   },
+   {
+      "owner": "Gibbu",
+      "name": "Lithesome"
    }
 ]
