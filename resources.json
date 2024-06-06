@@ -602,5 +602,13 @@
    {
       "owner": "Gibbu",
       "name": "Lithesome"
+   },
+   {
+      "owner": "razshare",
+      "name": "svelte-animated-pixels"
+   },
+   {
+      "owner": "ndom91",
+      "name": "svelte-infinite"
    }
 ]
