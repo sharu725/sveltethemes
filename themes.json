@@ -258,5 +258,9 @@
    {
       "owner": "mxdvl",
       "name": "clare"
+   },
+   {
+      "owner": "Bishwas-py",
+      "name": "django-svelte-template"
    }
 ]
