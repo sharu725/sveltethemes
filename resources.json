@@ -610,5 +610,13 @@
    {
       "owner": "ndom91",
       "name": "svelte-infinite"
+   },
+   {
+      "owner": "cardgraph22",
+      "name": "svelte5-commenter"
+   },
+   {
+      "owner": "ssc-project",
+      "name": "ssc"
    }
 ]
