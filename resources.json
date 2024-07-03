@@ -618,5 +618,9 @@
    {
       "owner": "ssc-project",
       "name": "ssc"
+   },
+   {
+      "owner": "SikandarJODD",
+      "name": "svelte-animations"
    }
 ]

@@ -262,5 +262,9 @@
    {
       "owner": "Bishwas-py",
       "name": "django-svelte-template"
+   },
+   {
+      "owner": "engageintellect",
+      "name": "sveltekit-supabase"
    }
 ]
