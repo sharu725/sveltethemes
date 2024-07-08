@@ -266,5 +266,17 @@
    {
       "owner": "engageintellect",
       "name": "sveltekit-supabase"
+   },
+   {
+      "owner": "mattjennings",
+      "name": "sveltekit-blog-template"
+   },
+   {
+      "owner": "matfantinel",
+      "name": "sveltekit-static-blog-template"
+   },
+   {
+      "owner": "Ilyas-Codes",
+      "name": "eCourse"
    }
 ]

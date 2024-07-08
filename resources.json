@@ -622,5 +622,13 @@
    {
       "owner": "SikandarJODD",
       "name": "svelte-animations"
+   },
+   {
+      "owner": "mskocik",
+      "name": "svelecte"
+   },
+   {
+      "owner": "vinayakkulkarni",
+      "name": "s-offline"
    }
 ]
