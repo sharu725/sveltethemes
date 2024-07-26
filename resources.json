@@ -100,10 +100,6 @@
       "name": "svelte-preprocess"
    },
    {
-      "owner": "feltcoop",
-      "name": "why-svelte"
-   },
-   {
       "owner": "tjinauyeung",
       "name": "svelte-forms-lib"
    },
@@ -222,14 +218,6 @@
    {
       "owner": "Gibbu",
       "name": "svooltip"
-   },
-   {
-      "owner": "anotherempty",
-      "name": "svelte-brick-gallery"
-   },
-   {
-      "owner": "anotherempty",
-      "name": "svelte-brick-gallery"
    },
    {
       "owner": "Valexr",
