@@ -622,5 +622,9 @@
    {
       "owner": "huntabyte",
       "name": "cmdk-sv"
+   },
+   {
+      "owner": "elemondev",
+      "name": "svelte-marquee"
    }
 ]
