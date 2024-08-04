@@ -278,5 +278,9 @@
    {
       "owner": "SikandarJODD",
       "name": "portfolio-template"
+   },
+   {
+      "owner": "mdenesfe",
+      "name": "svelte-tailwind-starter-kit"
    }
 ]
