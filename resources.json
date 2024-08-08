@@ -626,5 +626,9 @@
    {
       "owner": "elemondev",
       "name": "svelte-marquee"
+   },
+   {
+      "owner": "ryoppippi",
+      "name": "sveltweet"
    }
 ]
