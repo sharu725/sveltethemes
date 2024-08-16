@@ -630,5 +630,13 @@
    {
       "owner": "ryoppippi",
       "name": "sveltweet"
+   },
+   {
+      "owner": "snehalbaghel",
+      "name": "select-kit"
+   },
+   {
+      "owner": "palerdot",
+      "name": "svelte-speedometer"
    }
 ]
