@@ -634,5 +634,9 @@
    {
       "owner": "palerdot",
       "name": "svelte-speedometer"
+   },
+   {
+      "owner": "thecodejack",
+      "name": "svelte-file-dropzone"
    }
 ]
