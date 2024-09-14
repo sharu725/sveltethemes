@@ -638,5 +638,9 @@
    {
       "owner": "thecodejack",
       "name": "svelte-file-dropzone"
+   },
+   {
+      "owner": "mdenesfe",
+      "name": "pwa-icon-generator"
    }
 ]
