@@ -642,5 +642,13 @@
    {
       "owner": "mdenesfe",
       "name": "pwa-icon-generator"
+   },
+   {
+      "owner": "tzezar",
+      "name": "datagrid"
+   },
+   {
+      "owner": "friendofsvelte",
+      "name": "tipex"
    }
 ]
