@@ -650,5 +650,9 @@
    {
       "owner": "friendofsvelte",
       "name": "tipex"
+   },
+   {
+      "owner": "flo-bit",
+      "name": "svelte-openai-realtime-api"
    }
 ]
