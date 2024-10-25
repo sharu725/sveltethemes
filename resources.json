@@ -662,5 +662,9 @@
    {
       "owner": "islamzaoui",
       "name": "securekit"
+   },
+   {
+      "owner": "MosheRivkin",
+      "name": "awesome-shadcn-svelte"
    }
 ]
