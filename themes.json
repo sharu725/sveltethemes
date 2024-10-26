@@ -291,4 +291,8 @@
     "owner": "khromov",
     "name": "sparklepost"
   }
+  {
+    "owner": "thomax",
+    "name": "svelte-express-sanity-oauth-template"
+  }
 ]
