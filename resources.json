@@ -664,6 +664,10 @@
       "name": "securekit"
    },
    {
+      "owner": "mosherivkin",
+      "name": "awesome-shadcn-svelte"
+   },
+  {
       "owner": "dvcol",
       "name": "svelte-simple-router"
    }
