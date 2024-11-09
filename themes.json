@@ -294,5 +294,9 @@
   {
     "owner": "thomax",
     "name": "svelte-express-sanity-oauth-template"
+  },
+  {
+    "owner": "stolinski",
+    "name": "drop-in"
   }
 ]

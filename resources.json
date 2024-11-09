@@ -1,674 +1,686 @@
 [
-   {
-      "owner": "svelte-society",
-      "name": "sveltesociety.dev"
-   },
-   {
-      "owner": "TheComputerM",
-      "name": "awesome-svelte"
-   },
-   {
-      "owner": "rocketlaunchr",
-      "name": "awesome-svelte"
-   },
-   {
-      "owner": "RobBrazier",
-      "name": "svelte-awesome"
-   },
-   {
-      "owner": "bestguy",
-      "name": "sveltestrap"
-   },
-   {
-      "owner": "EmilTholin",
-      "name": "svelte-routing"
-   },
-   {
-      "owner": "nodegui",
-      "name": "svelte-nodegui"
-   },
-   {
-      "owner": "hperrin",
-      "name": "svelte-material-ui"
-   },
-   {
-      "owner": "bytedance",
-      "name": "bytemd"
-   },
-   {
-      "owner": "matyunya",
-      "name": "smelte"
-   },
-   {
-      "owner": "daybrush",
-      "name": "selecto"
-   },
-   {
-      "owner": "IBM",
-      "name": "carbon-components-svelte"
-   },
-   {
-      "owner": "pngwn",
-      "name": "MDsveX"
-   },
-   {
-      "owner": "Rich-Harris",
-      "name": "pancake"
-   },
-   {
-      "owner": "plentico",
-      "name": "plenti"
-   },
-   {
-      "owner": "vaheqelyan",
-      "name": "svelte-grid"
-   },
-   {
-      "owner": "rob-balfre",
-      "name": "svelte-select"
-   },
-   {
-      "owner": "mhkeller",
-      "name": "layercake"
-   },
-   {
-      "owner": "svelte-add",
-      "name": "svelte-add"
-   },
-   {
-      "owner": "dasDaniel",
-      "name": "svelte-table"
-   },
-   {
-      "owner": "specialdoom",
-      "name": "proi-ui"
-   },
-   {
-      "owner": "pqina",
-      "name": "filepond"
-   },
-   {
-      "owner": "vatro",
-      "name": "svelthree"
-   },
-   {
-      "owner": "egoist",
-      "name": "poi"
-   },
-   {
-      "owner": "sveltejs",
-      "name": "svelte-preprocess"
-   },
-   {
-      "owner": "tjinauyeung",
-      "name": "svelte-forms-lib"
-   },
-   {
-      "owner": "AlecAivazis",
-      "name": "houdini"
-   },
-   {
-      "owner": "Dan6erbond",
-      "name": "sk-auth"
-   },
-   {
-      "owner": "maciekgrzybek",
-      "name": "svelte-inview"
-   },
-   {
-      "owner": "daybrush",
-      "name": "ruler"
-   },
-   {
-      "owner": "erictherobot",
-      "name": "svelteit"
-   },
-   {
-      "owner": "artiebits",
-      "name": "svelte-seo"
-   },
-   {
-      "owner": "illright",
-      "name": "attractions"
-   },
-   {
-      "owner": "metonym",
-      "name": "svelte-accessible-accordion"
-   },
-   {
-      "owner": "BulatDashiev",
-      "name": "svelte-slider"
-   },
-   {
-      "owner": "probablykasper",
-      "name": "date-picker-svelte"
-   },
-   {
-      "owner": "Oli8",
-      "name": "spaper"
-   },
-   {
-      "owner": "leveluptuts",
-      "name": "gQuery"
-   },
-   {
-      "owner": "Tropix126",
-      "name": "fluent-svelte"
-   },
-   {
-      "owner": "oekazuma",
-      "name": "svelte-meta-tags"
-   },
-   {
-      "owner": "babakfp",
-      "name": "svelte-outclick"
-   },
-   {
-      "owner": "beynar",
-      "name": "svelte-themes"
-   },
-   {
-      "owner": "KamyarLajani",
-      "name": "svelte-yup"
-   },
-   {
-      "owner": "bartholomej",
-      "name": "svelte-sitemap"
-   },
-   {
-      "owner": "svemix",
-      "name": "svemix"
-   },
-   {
-      "owner": "SarcevicAntonio",
-      "name": "as-toast"
-   },
-   {
-      "owner": "naver",
-      "name": "egjs-infinitegrid"
-   },
-   {
-      "owner": "shinokada",
-      "name": "flowbite-svelte"
-   },
-   {
-      "owner": "srmullen",
-      "name": "sveltekit-stripe"
-   },
-   {
-      "owner": "sharu725",
-      "name": "sv-popup"
-   },
-   {
-      "owner": "sharu725",
-      "name": "youtube-embed"
-   },
-   {
-      "owner": "svelteuidev",
-      "name": "svelteui"
-   },
-   {
-      "owner": "oslabs-beta",
-      "name": "svend3r"
-   },
-   {
-      "owner": "kbrgl",
-      "name": "svelte-french-toast"
-   },
-   {
-      "owner": "Gibbu",
-      "name": "svooltip"
-   },
-   {
-      "owner": "Valexr",
-      "name": "Slidy"
-   },
-   {
-      "owner": "Mitcheljager",
-      "name": "svelte-confetti"
-   },
-   {
-      "owner": "suryamsj",
-      "name": "short-url-generator"
-   },
-   {
-      "owner": "sharu725",
-      "name": "sv-tooltip"
-   },
-   {
-      "owner": "theetherGit",
-      "name": "shrink-me"
-   },
-   {
-      "owner": "rossrobino",
-      "name": "components"
-   },
-   {
-      "owner": "CaptainCodeman",
-      "name": "svelte-form-helper"
-   },
-   {
-      "owner": "sidharth-anand",
-      "name": "teil-ui"
-   },
-   {
-      "owner": "puruvj",
-      "name": "neodrag"
-   },
-   {
-      "owner": "open-source-labs",
-      "name": "Svelvet"
-   },
-   {
-      "owner": "maciekgrzybek",
-      "name": "svelte-inview"
-   },
-   {
-      "owner": "skeletonlabs",
-      "name": "skeleton"
-   },
-   {
-      "owner": "kudadam",
-      "name": "svelte-scrollprogress"
-   },
-   {
-      "owner": "konstaui",
-      "name": "konsta"
-   },
-   {
-      "owner": "probablykasper",
-      "name": "modal-svelte"
-   },
-   {
-      "owner": "tglide",
-      "name": "svelte-radial-menu"
-   },
-   {
-      "owner": "grail-ui",
-      "name": "grail-ui"
-   },
-   {
-      "owner": "captaincodeman",
-      "name": "svelte-image-comparison"
-   },
-   {
-      "owner": "ThaUnknown",
-      "name": "simple-font-select"
-   },
-   {
-      "owner": "joaquimnetocel",
-      "name": "svelte-datatables-net"
-   },
-   {
-      "owner": "aymeric-giraudet",
-      "name": "svelte-algolia-instantsearch"
-   },
-   {
-      "owner": "Gibbu",
-      "name": "svoast"
-   },
-   {
-      "owner": "K4UNG",
-      "name": "svelte-otp"
-   },
-   {
-      "owner": "zeucapua",
-      "name": "trace-svelte"
-   },
-   {
-      "owner": "multiplehats",
-      "name": "svelte-auth-ui"
-   },
-   {
-      "owner": "captaincodeman",
-      "name": "svelte-signature-pad"
-   },
-   {
-      "owner": "agustinl",
-      "name": "svelte-tags-input"
-   },
-   {
-      "owner": "histoire-dev",
-      "name": "histoire"
-   },
-   {
-      "owner": "rgossiaux",
-      "name": "svelte-headlessui"
-   },
-   {
-      "owner": "6eDesign",
-      "name": "svelte-calendar"
-   },
-   {
-      "owner": "vnphanquang",
-      "name": "svelte-put"
-   },
-   {
-      "owner": "bryanmylee",
-      "name": "svelte-headless-table"
-   },
-   {
-      "owner": "elcobvg",
-      "name": "svelte-autocomplete"
-   },
-   {
-      "owner": "heithemmoumni",
-      "name": "svelte-mindmap"
-   },
-   {
-      "owner": "vadimkorr",
-      "name": "svelte-carousel"
-   },
-   {
-      "owner": "muonw",
-      "name": "powertable"
-   },
-   {
-      "owner": "okrad",
-      "name": "svelte-progressbar"
-   },
-   {
-      "owner": "andrelmlins",
-      "name": "svelte-infinite-scroll"
-   },
-   {
-      "owner": "romkor",
-      "name": "svelte-portal"
-   },
-   {
-      "owner": "N00nDay",
-      "name": "stwui"
-   },
-   {
-      "owner": "open-source-labs",
-      "name": "SvelteStorm"
-   },
-   {
-      "owner": "timhall",
-      "name": "svelte-apollo"
-   },
-   {
-      "owner": "codediodeio",
-      "name": "sveltefire"
-   },
-   {
-      "owner": "kaisermann",
-      "name": "svelte-i18n"
-   },
-   {
-      "owner": "Rich-Harris",
-      "name": "svelte-split-pane"
-   },
-   {
-      "owner": "itswadesh",
-      "name": "svelte-commerce"
-   },
-   {
-      "owner": "AiHiPUniversity",
-      "name": "ai-chatbot-openai-sveltekit-boilerplate-1"
-   },
-   {
-      "owner": "ankurrsinghal",
-      "name": "svelte-legos"
-   },
-   {
-      "owner": "zerodevx",
-      "name": "svelte-img"
-   },
-   {
-      "owner": "ShipBit",
-      "name": "slickgpt"
-   },
-   {
-      "owner": "efstajas",
-      "name": "svelte-stepper"
-   },
-   {
-      "owner": "poppa",
-      "name": "sveltekit-svg"
-   },
-   {
-      "owner": "ciscoheat",
-      "name": "sveltekit-superforms"
-   },
-   {
-      "owner": "mokshit06",
-      "name": "sveltris"
-   },
-   {
-      "owner": "SwiftMarket",
-      "name": "swiftmarket-sveltekit"
-   },
-   {
-      "owner": "elron",
-      "name": "svelte-animated-headline"
-   },
-   {
-      "owner": "Rolands-Laucis",
-      "name": "Socio"
-   },
-   {
-      "owner": "wundergraph",
-      "name": "wundergraph"
-   },
-   {
-      "owner": "pilcrowOnPaper",
-      "name": "lucia"
-   },
-   {
-      "owner": "icflorescu",
-      "name": "trpc-sveltekit"
-   },
-   {
-      "owner": "dimfeld",
-      "name": "svelte-maplibre"
-   },
-   {
-      "owner": "michael",
-      "name": "editable-website"
-   },
-   {
-      "owner": "wh0am1-dev",
-      "name": "svelte-zdog"
-   },
-   {
-      "owner": "vasucp1207",
-      "name": "sveltronics"
-   },
-   {
-      "owner": "thetinkerinc",
-      "name": "colibri"
-   },
-   {
-      "owner": "joshnuss",
-      "name": "svelte-local-storage-store"
-   },
-   {
-      "owner": "huntabyte",
-      "name": "shadcn-svelte"
-   },
-   {
-      "owner": "pragmatic-engineering",
-      "name": "svelte-form-builder-community"
-   },
-   {
-      "owner": "wobsoriano",
-      "name": "svelte-sonner"
-   },
-   {
-      "owner": "mskocik",
-      "name": "svelecte"
-   },
-   {
-      "owner": "melt-ui",
-      "name": "melt-ui"
-   },
-   {
-      "owner": "prismicio",
-      "name": "prismic-svelte"
-   },
-   {
-      "owner": "Obra-Studio",
-      "name": "obra-icons-svelte-public"
-   },
-   {
-      "owner": "KTibow",
-      "name": "m3-svelte"
-   },
-   {
-      "owner": "bennymi",
-      "name": "ato-ui"
-   },
-   {
-      "owner": "paoloricciuti",
-      "name": "sveltekit-view-transition"
-   },
-   {
-      "owner": "LorisSigrist",
-      "name": "t18s"
-   },
-   {
-      "owner": "xyflow",
-      "name": "xyflow"
-   },
-   {
-      "owner": "jasongitmail",
-      "name": "super-sitemap"
-   },
-   {
-      "owner": "techniq",
-      "name": "svelte-ux"
-   },
-   {
-      "owner": "tombroomfield",
-      "name": "CanIKit"
-   },
-   {
-      "owner": "willin",
-      "name": "svelte-turbo"
-   },
-   {
-      "owner": "lagden",
-      "name": "svelte-dialog"
-   },
-   {
-      "owner": "EMPTYVOID-DEV",
-      "name": "Altron"
-   },
-   {
-      "owner": "ghtx280",
-      "name": "blickcss"
-   },
-   {
-      "owner": "oslabs-beta",
-      "name": "Svisualize"
-   },
-   {
-      "owner": "prosopo",
-      "name": "captcha"
-   },
-   {
-      "owner": "svecosystem",
-      "name": "paneforge"
-   },
-   {
-      "owner": "jill64",
-      "name": "svelte-page-tab"
-   },
-   {
-      "owner": "passlock-dev",
-      "name": "svelte-passkeys"
-   },
-   {
-      "owner": "cowboycodr",
-      "name": "KianKit"
-   },
-   {
-      "owner": "svar-widgets",
-      "name": "core"
-   },
-   {
-      "owner": "Gibbu",
-      "name": "Lithesome"
-   },
-   {
-      "owner": "razshare",
-      "name": "svelte-animated-pixels"
-   },
-   {
-      "owner": "ndom91",
-      "name": "svelte-infinite"
-   },
-   {
-      "owner": "cardgraph22",
-      "name": "svelte5-commenter"
-   },
-   {
-      "owner": "ssc-project",
-      "name": "ssc"
-   },
-   {
-      "owner": "SikandarJODD",
-      "name": "svelte-animations"
-   },
-   {
-      "owner": "mskocik",
-      "name": "svelecte"
-   },
-   {
-      "owner": "vinayakkulkarni",
-      "name": "s-offline"
-   },
-   {
-      "owner": "huntabyte",
-      "name": "cmdk-sv"
-   },
-   {
-      "owner": "ryoppippi",
-      "name": "sveltweet"
-   },
-   {
-      "owner": "snehalbaghel",
-      "name": "select-kit"
-   },
-   {
-      "owner": "palerdot",
-      "name": "svelte-speedometer"
-   },
-   {
-      "owner": "thecodejack",
-      "name": "svelte-file-dropzone"
-   },
-   {
-      "owner": "mdenesfe",
-      "name": "pwa-icon-generator"
-   },
-   {
-      "owner": "tzezar",
-      "name": "datagrid"
-   },
-   {
-      "owner": "friendofsvelte",
-      "name": "tipex"
-   },
-   {
-      "owner": "flo-bit",
-      "name": "svelte-openai-realtime-api"
-   },
-   {
-      "owner": "svecosystem",
-      "name": "formsnap"
-   },
-   {
-      "owner": "islamzaoui",
-      "name": "securekit"
-   },
-   {
-      "owner": "mosherivkin",
-      "name": "awesome-shadcn-svelte"
-   },
   {
-      "owner": "dvcol",
-      "name": "svelte-simple-router"
-   }
+    "owner": "svelte-society",
+    "name": "sveltesociety.dev"
+  },
+  {
+    "owner": "TheComputerM",
+    "name": "awesome-svelte"
+  },
+  {
+    "owner": "rocketlaunchr",
+    "name": "awesome-svelte"
+  },
+  {
+    "owner": "RobBrazier",
+    "name": "svelte-awesome"
+  },
+  {
+    "owner": "bestguy",
+    "name": "sveltestrap"
+  },
+  {
+    "owner": "EmilTholin",
+    "name": "svelte-routing"
+  },
+  {
+    "owner": "nodegui",
+    "name": "svelte-nodegui"
+  },
+  {
+    "owner": "hperrin",
+    "name": "svelte-material-ui"
+  },
+  {
+    "owner": "bytedance",
+    "name": "bytemd"
+  },
+  {
+    "owner": "matyunya",
+    "name": "smelte"
+  },
+  {
+    "owner": "daybrush",
+    "name": "selecto"
+  },
+  {
+    "owner": "IBM",
+    "name": "carbon-components-svelte"
+  },
+  {
+    "owner": "pngwn",
+    "name": "MDsveX"
+  },
+  {
+    "owner": "Rich-Harris",
+    "name": "pancake"
+  },
+  {
+    "owner": "plentico",
+    "name": "plenti"
+  },
+  {
+    "owner": "vaheqelyan",
+    "name": "svelte-grid"
+  },
+  {
+    "owner": "rob-balfre",
+    "name": "svelte-select"
+  },
+  {
+    "owner": "mhkeller",
+    "name": "layercake"
+  },
+  {
+    "owner": "svelte-add",
+    "name": "svelte-add"
+  },
+  {
+    "owner": "dasDaniel",
+    "name": "svelte-table"
+  },
+  {
+    "owner": "specialdoom",
+    "name": "proi-ui"
+  },
+  {
+    "owner": "pqina",
+    "name": "filepond"
+  },
+  {
+    "owner": "vatro",
+    "name": "svelthree"
+  },
+  {
+    "owner": "egoist",
+    "name": "poi"
+  },
+  {
+    "owner": "sveltejs",
+    "name": "svelte-preprocess"
+  },
+  {
+    "owner": "tjinauyeung",
+    "name": "svelte-forms-lib"
+  },
+  {
+    "owner": "AlecAivazis",
+    "name": "houdini"
+  },
+  {
+    "owner": "Dan6erbond",
+    "name": "sk-auth"
+  },
+  {
+    "owner": "maciekgrzybek",
+    "name": "svelte-inview"
+  },
+  {
+    "owner": "daybrush",
+    "name": "ruler"
+  },
+  {
+    "owner": "erictherobot",
+    "name": "svelteit"
+  },
+  {
+    "owner": "artiebits",
+    "name": "svelte-seo"
+  },
+  {
+    "owner": "illright",
+    "name": "attractions"
+  },
+  {
+    "owner": "metonym",
+    "name": "svelte-accessible-accordion"
+  },
+  {
+    "owner": "BulatDashiev",
+    "name": "svelte-slider"
+  },
+  {
+    "owner": "probablykasper",
+    "name": "date-picker-svelte"
+  },
+  {
+    "owner": "Oli8",
+    "name": "spaper"
+  },
+  {
+    "owner": "leveluptuts",
+    "name": "gQuery"
+  },
+  {
+    "owner": "Tropix126",
+    "name": "fluent-svelte"
+  },
+  {
+    "owner": "oekazuma",
+    "name": "svelte-meta-tags"
+  },
+  {
+    "owner": "babakfp",
+    "name": "svelte-outclick"
+  },
+  {
+    "owner": "beynar",
+    "name": "svelte-themes"
+  },
+  {
+    "owner": "KamyarLajani",
+    "name": "svelte-yup"
+  },
+  {
+    "owner": "bartholomej",
+    "name": "svelte-sitemap"
+  },
+  {
+    "owner": "svemix",
+    "name": "svemix"
+  },
+  {
+    "owner": "SarcevicAntonio",
+    "name": "as-toast"
+  },
+  {
+    "owner": "naver",
+    "name": "egjs-infinitegrid"
+  },
+  {
+    "owner": "shinokada",
+    "name": "flowbite-svelte"
+  },
+  {
+    "owner": "srmullen",
+    "name": "sveltekit-stripe"
+  },
+  {
+    "owner": "sharu725",
+    "name": "sv-popup"
+  },
+  {
+    "owner": "sharu725",
+    "name": "youtube-embed"
+  },
+  {
+    "owner": "svelteuidev",
+    "name": "svelteui"
+  },
+  {
+    "owner": "oslabs-beta",
+    "name": "svend3r"
+  },
+  {
+    "owner": "kbrgl",
+    "name": "svelte-french-toast"
+  },
+  {
+    "owner": "Gibbu",
+    "name": "svooltip"
+  },
+  {
+    "owner": "Valexr",
+    "name": "Slidy"
+  },
+  {
+    "owner": "Mitcheljager",
+    "name": "svelte-confetti"
+  },
+  {
+    "owner": "suryamsj",
+    "name": "short-url-generator"
+  },
+  {
+    "owner": "sharu725",
+    "name": "sv-tooltip"
+  },
+  {
+    "owner": "theetherGit",
+    "name": "shrink-me"
+  },
+  {
+    "owner": "rossrobino",
+    "name": "components"
+  },
+  {
+    "owner": "CaptainCodeman",
+    "name": "svelte-form-helper"
+  },
+  {
+    "owner": "sidharth-anand",
+    "name": "teil-ui"
+  },
+  {
+    "owner": "puruvj",
+    "name": "neodrag"
+  },
+  {
+    "owner": "open-source-labs",
+    "name": "Svelvet"
+  },
+  {
+    "owner": "maciekgrzybek",
+    "name": "svelte-inview"
+  },
+  {
+    "owner": "skeletonlabs",
+    "name": "skeleton"
+  },
+  {
+    "owner": "kudadam",
+    "name": "svelte-scrollprogress"
+  },
+  {
+    "owner": "konstaui",
+    "name": "konsta"
+  },
+  {
+    "owner": "probablykasper",
+    "name": "modal-svelte"
+  },
+  {
+    "owner": "tglide",
+    "name": "svelte-radial-menu"
+  },
+  {
+    "owner": "grail-ui",
+    "name": "grail-ui"
+  },
+  {
+    "owner": "captaincodeman",
+    "name": "svelte-image-comparison"
+  },
+  {
+    "owner": "ThaUnknown",
+    "name": "simple-font-select"
+  },
+  {
+    "owner": "joaquimnetocel",
+    "name": "svelte-datatables-net"
+  },
+  {
+    "owner": "aymeric-giraudet",
+    "name": "svelte-algolia-instantsearch"
+  },
+  {
+    "owner": "Gibbu",
+    "name": "svoast"
+  },
+  {
+    "owner": "K4UNG",
+    "name": "svelte-otp"
+  },
+  {
+    "owner": "zeucapua",
+    "name": "trace-svelte"
+  },
+  {
+    "owner": "multiplehats",
+    "name": "svelte-auth-ui"
+  },
+  {
+    "owner": "captaincodeman",
+    "name": "svelte-signature-pad"
+  },
+  {
+    "owner": "agustinl",
+    "name": "svelte-tags-input"
+  },
+  {
+    "owner": "histoire-dev",
+    "name": "histoire"
+  },
+  {
+    "owner": "rgossiaux",
+    "name": "svelte-headlessui"
+  },
+  {
+    "owner": "6eDesign",
+    "name": "svelte-calendar"
+  },
+  {
+    "owner": "vnphanquang",
+    "name": "svelte-put"
+  },
+  {
+    "owner": "bryanmylee",
+    "name": "svelte-headless-table"
+  },
+  {
+    "owner": "elcobvg",
+    "name": "svelte-autocomplete"
+  },
+  {
+    "owner": "heithemmoumni",
+    "name": "svelte-mindmap"
+  },
+  {
+    "owner": "vadimkorr",
+    "name": "svelte-carousel"
+  },
+  {
+    "owner": "muonw",
+    "name": "powertable"
+  },
+  {
+    "owner": "okrad",
+    "name": "svelte-progressbar"
+  },
+  {
+    "owner": "andrelmlins",
+    "name": "svelte-infinite-scroll"
+  },
+  {
+    "owner": "romkor",
+    "name": "svelte-portal"
+  },
+  {
+    "owner": "N00nDay",
+    "name": "stwui"
+  },
+  {
+    "owner": "open-source-labs",
+    "name": "SvelteStorm"
+  },
+  {
+    "owner": "timhall",
+    "name": "svelte-apollo"
+  },
+  {
+    "owner": "codediodeio",
+    "name": "sveltefire"
+  },
+  {
+    "owner": "kaisermann",
+    "name": "svelte-i18n"
+  },
+  {
+    "owner": "Rich-Harris",
+    "name": "svelte-split-pane"
+  },
+  {
+    "owner": "itswadesh",
+    "name": "svelte-commerce"
+  },
+  {
+    "owner": "AiHiPUniversity",
+    "name": "ai-chatbot-openai-sveltekit-boilerplate-1"
+  },
+  {
+    "owner": "ankurrsinghal",
+    "name": "svelte-legos"
+  },
+  {
+    "owner": "zerodevx",
+    "name": "svelte-img"
+  },
+  {
+    "owner": "ShipBit",
+    "name": "slickgpt"
+  },
+  {
+    "owner": "efstajas",
+    "name": "svelte-stepper"
+  },
+  {
+    "owner": "poppa",
+    "name": "sveltekit-svg"
+  },
+  {
+    "owner": "ciscoheat",
+    "name": "sveltekit-superforms"
+  },
+  {
+    "owner": "mokshit06",
+    "name": "sveltris"
+  },
+  {
+    "owner": "SwiftMarket",
+    "name": "swiftmarket-sveltekit"
+  },
+  {
+    "owner": "elron",
+    "name": "svelte-animated-headline"
+  },
+  {
+    "owner": "Rolands-Laucis",
+    "name": "Socio"
+  },
+  {
+    "owner": "wundergraph",
+    "name": "wundergraph"
+  },
+  {
+    "owner": "pilcrowOnPaper",
+    "name": "lucia"
+  },
+  {
+    "owner": "icflorescu",
+    "name": "trpc-sveltekit"
+  },
+  {
+    "owner": "dimfeld",
+    "name": "svelte-maplibre"
+  },
+  {
+    "owner": "michael",
+    "name": "editable-website"
+  },
+  {
+    "owner": "wh0am1-dev",
+    "name": "svelte-zdog"
+  },
+  {
+    "owner": "vasucp1207",
+    "name": "sveltronics"
+  },
+  {
+    "owner": "thetinkerinc",
+    "name": "colibri"
+  },
+  {
+    "owner": "joshnuss",
+    "name": "svelte-local-storage-store"
+  },
+  {
+    "owner": "huntabyte",
+    "name": "shadcn-svelte"
+  },
+  {
+    "owner": "pragmatic-engineering",
+    "name": "svelte-form-builder-community"
+  },
+  {
+    "owner": "wobsoriano",
+    "name": "svelte-sonner"
+  },
+  {
+    "owner": "mskocik",
+    "name": "svelecte"
+  },
+  {
+    "owner": "melt-ui",
+    "name": "melt-ui"
+  },
+  {
+    "owner": "prismicio",
+    "name": "prismic-svelte"
+  },
+  {
+    "owner": "Obra-Studio",
+    "name": "obra-icons-svelte-public"
+  },
+  {
+    "owner": "KTibow",
+    "name": "m3-svelte"
+  },
+  {
+    "owner": "bennymi",
+    "name": "ato-ui"
+  },
+  {
+    "owner": "paoloricciuti",
+    "name": "sveltekit-view-transition"
+  },
+  {
+    "owner": "LorisSigrist",
+    "name": "t18s"
+  },
+  {
+    "owner": "xyflow",
+    "name": "xyflow"
+  },
+  {
+    "owner": "jasongitmail",
+    "name": "super-sitemap"
+  },
+  {
+    "owner": "techniq",
+    "name": "svelte-ux"
+  },
+  {
+    "owner": "tombroomfield",
+    "name": "CanIKit"
+  },
+  {
+    "owner": "willin",
+    "name": "svelte-turbo"
+  },
+  {
+    "owner": "lagden",
+    "name": "svelte-dialog"
+  },
+  {
+    "owner": "EMPTYVOID-DEV",
+    "name": "Altron"
+  },
+  {
+    "owner": "ghtx280",
+    "name": "blickcss"
+  },
+  {
+    "owner": "oslabs-beta",
+    "name": "Svisualize"
+  },
+  {
+    "owner": "prosopo",
+    "name": "captcha"
+  },
+  {
+    "owner": "svecosystem",
+    "name": "paneforge"
+  },
+  {
+    "owner": "jill64",
+    "name": "svelte-page-tab"
+  },
+  {
+    "owner": "passlock-dev",
+    "name": "svelte-passkeys"
+  },
+  {
+    "owner": "cowboycodr",
+    "name": "KianKit"
+  },
+  {
+    "owner": "svar-widgets",
+    "name": "core"
+  },
+  {
+    "owner": "Gibbu",
+    "name": "Lithesome"
+  },
+  {
+    "owner": "razshare",
+    "name": "svelte-animated-pixels"
+  },
+  {
+    "owner": "ndom91",
+    "name": "svelte-infinite"
+  },
+  {
+    "owner": "cardgraph22",
+    "name": "svelte5-commenter"
+  },
+  {
+    "owner": "ssc-project",
+    "name": "ssc"
+  },
+  {
+    "owner": "SikandarJODD",
+    "name": "svelte-animations"
+  },
+  {
+    "owner": "mskocik",
+    "name": "svelecte"
+  },
+  {
+    "owner": "vinayakkulkarni",
+    "name": "s-offline"
+  },
+  {
+    "owner": "huntabyte",
+    "name": "cmdk-sv"
+  },
+  {
+    "owner": "ryoppippi",
+    "name": "sveltweet"
+  },
+  {
+    "owner": "snehalbaghel",
+    "name": "select-kit"
+  },
+  {
+    "owner": "palerdot",
+    "name": "svelte-speedometer"
+  },
+  {
+    "owner": "thecodejack",
+    "name": "svelte-file-dropzone"
+  },
+  {
+    "owner": "mdenesfe",
+    "name": "pwa-icon-generator"
+  },
+  {
+    "owner": "tzezar",
+    "name": "datagrid"
+  },
+  {
+    "owner": "friendofsvelte",
+    "name": "tipex"
+  },
+  {
+    "owner": "flo-bit",
+    "name": "svelte-openai-realtime-api"
+  },
+  {
+    "owner": "svecosystem",
+    "name": "formsnap"
+  },
+  {
+    "owner": "islamzaoui",
+    "name": "securekit"
+  },
+  {
+    "owner": "mosherivkin",
+    "name": "awesome-shadcn-svelte"
+  },
+  {
+    "owner": "dvcol",
+    "name": "svelte-simple-router"
+  },
+  {
+    "owner": "huntabyte",
+    "name": "vaul-svelte"
+  },
+  {
+    "owner": "orefalo",
+    "name": "svelte-virtuallists"
+  },
+  {
+    "owner": "paoloricciuti",
+    "name": "sveltekit-search-params"
+  }
 ]
