@@ -682,5 +682,9 @@
   {
     "owner": "paoloricciuti",
     "name": "sveltekit-search-params"
+  },
+  {
+    "owner": "jis3r",
+    "name": "icons"
   }
 ]
