@@ -686,5 +686,9 @@
   {
     "owner": "jis3r",
     "name": "icons"
+  },
+  {
+    "owner": "simeydotme",
+    "name": "svelte-range-slider-pips"
   }
 ]
