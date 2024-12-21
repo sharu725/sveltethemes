@@ -690,5 +690,9 @@
   {
     "owner": "simeydotme",
     "name": "svelte-range-slider-pips"
+  },
+  {
+    "owner": "Queaxtra",
+    "name": "appwrite-sveltekit"
   }
 ]
