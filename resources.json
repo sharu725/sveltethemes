@@ -694,5 +694,9 @@
   {
     "owner": "Queaxtra",
     "name": "appwrite-sveltekit"
+  },
+  {
+    "owner": "metonym",
+    "name": "svelte-highlight"
   }
 ]
