@@ -698,5 +698,13 @@
   {
     "owner": "metonym",
     "name": "svelte-highlight"
+  },
+  {
+    "owner": "svar-widgets",
+    "name": "grid"
+  },
+  {
+    "owner": "svar-widgets",
+    "name": "gantt"
   }
 ]
