@@ -298,5 +298,9 @@
   {
     "owner": "stolinski",
     "name": "drop-in"
+  },
+  {
+    "owner": "thomaslappenbusch",
+    "name": "svelte-5-dashboard"
   }
 ]
