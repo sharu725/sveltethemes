@@ -714,5 +714,9 @@
   {
     "owner": "SikandarJODD",
     "name": "form-builder"
+  },
+  {
+    "owner": "huntabyte",
+    "name": "vaul-svelte"
   }
 ]
