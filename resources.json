@@ -718,5 +718,9 @@
   {
     "owner": "huntabyte",
     "name": "vaul-svelte"
+  },
+  {
+    "owner": "ndri",
+    "name": "sidekickicons-svelte"
   }
 ]
