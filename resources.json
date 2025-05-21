@@ -722,5 +722,9 @@
   {
     "owner": "ndri",
     "name": "sidekickicons-svelte"
+  },
+  {
+    "owner": "animotionjs",
+    "name": "animotion"
   }
 ]
