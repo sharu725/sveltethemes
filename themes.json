@@ -302,5 +302,9 @@
   {
     "owner": "thomaslappenbusch",
     "name": "svelte-5-dashboard"
+  },
+  {
+    "owner": "joelseq",
+    "name": "go-svelte-spa"
   }
 ]
