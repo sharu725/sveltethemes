@@ -726,5 +726,9 @@
   {
     "owner": "animotionjs",
     "name": "animotion"
+  },
+  {
+    "owner": "turtle-key",
+    "name": "TabLift"
   }
 ]
