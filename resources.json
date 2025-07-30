@@ -412,10 +412,6 @@
     "name": "svelte-legos"
   },
   {
-    "owner": "zerodevx",
-    "name": "svelte-img"
-  },
-  {
     "owner": "ShipBit",
     "name": "slickgpt"
   },
@@ -730,5 +726,25 @@
   {
     "owner": "turtle-key",
     "name": "TabLift"
+  },
+  {
+    "owner": "max-got",
+    "name": "originui-svelte"
+  },
+  {
+    "owner": "StudentOfJS",
+    "name": "svelte5-mcp"
+  },
+  {
+    "owner": "mainmatter",
+    "name": "sheepdog"
+  },
+  {
+    "owner": "chakra-ui",
+    "name": "ark"
+  },
+  {
+    "owner": "svar-widgets",
+    "name": "filter"
   }
 ]
