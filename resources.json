@@ -746,5 +746,9 @@
   {
     "owner": "svar-widgets",
     "name": "filter"
+  },
+  {
+    "owner": "ssssota",
+    "name": "svelte-exmarkdown"
   }
 ]
