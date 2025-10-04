@@ -306,5 +306,17 @@
   {
     "owner": "joelseq",
     "name": "go-svelte-spa"
+  },
+  {
+    "owner": "hsalvesen",
+    "name": "vesen"
+  },
+  {
+    "owner": "TheWolfStreet",
+    "name": "sveltekit-starter"
+  },
+  {
+    "owner": "engageintellect",
+    "name": "spatz"
   }
 ]
