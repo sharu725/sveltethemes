@@ -750,5 +750,21 @@
   {
     "owner": "ssssota",
     "name": "svelte-exmarkdown"
+  },
+  {
+    "owner": "wuchalejs",
+    "name": "wuchale"
+  },
+  {
+    "owner": "SebasGDEV",
+    "name": "sv-console"
+  },
+  {
+    "owner": "propolies",
+    "name": "magicons"
+  },
+  {
+    "owner": "Nelhoa",
+    "name": "svelte-pops"
   }
 ]
