@@ -766,5 +766,33 @@
   {
     "owner": "Nelhoa",
     "name": "svelte-pops"
+  },
+  {
+    "owner": "Konixy",
+    "name": "better-svelte-email"
+  },
+  {
+    "owner": "pitis",
+    "name": "svelte-number-format"
+  },
+  {
+    "owner": "michaelcuneo",
+    "name": "chain-enhance"
+  },
+  {
+    "owner": "ChulkovDanila",
+    "name": "svelte-ui-kit"
+  },
+  {
+    "owner": "SikandarJODD",
+    "name": "ai-elements"
+  },
+  {
+    "owner": "Michael-Obele",
+    "name": "sveltekit-api-gen"
+  },
+  {
+    "owner": "lelabdev",
+    "name": "rune-scroller"
   }
 ]
