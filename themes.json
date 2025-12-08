@@ -326,5 +326,9 @@
   {
     "owner": "yusufceng1z",
     "name" : "sveltekit-tailwind-landing-page-template"
+  },
+  {
+    "owner": "yusufceng1z",
+    "name" : "sveltekit-shadcn-blog-starter"
   }
 ]
