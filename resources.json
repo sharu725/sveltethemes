@@ -794,5 +794,17 @@
   {
     "owner": "lelabdev",
     "name": "rune-scroller"
+  },
+  {
+    "owner": "MariusLang",
+    "name": "mapcn-svelte"
+  },
+  {
+    "owner": "motion-core",
+    "name": "motion-core"
+  },
+  {
+    "owner": "Savy011",
+    "name": "tilt-svelte"
   }
 ]
