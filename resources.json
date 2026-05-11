@@ -1,29 +1,5 @@
 [
   {
-    "owner": "svelte-society",
-    "name": "sveltesociety.dev"
-  },
-  {
-    "owner": "TheComputerM",
-    "name": "awesome-svelte"
-  },
-  {
-    "owner": "rocketlaunchr",
-    "name": "awesome-svelte"
-  },
-  {
-    "owner": "RobBrazier",
-    "name": "svelte-awesome"
-  },
-  {
-    "owner": "bestguy",
-    "name": "sveltestrap"
-  },
-  {
-    "owner": "EmilTholin",
-    "name": "svelte-routing"
-  },
-  {
     "owner": "nodegui",
     "name": "svelte-nodegui"
   },
@@ -806,5 +782,33 @@
   {
     "owner": "Savy011",
     "name": "tilt-svelte"
+  },
+  {
+    "owner": "dayflow-js",
+    "name": "BlossomColorPicker"
+  },
+  {
+    "owner": "thisuxhq",
+    "name": "sveltednd"
+  },
+  {
+    "owner": "Aejkatappaja",
+    "name": "phantom-ui"
+  },
+  {
+    "owner": "SikandarJODD",
+    "name": "animations"
+  },
+  {
+    "owner": "ElyasAsmad",
+    "name": "svileo"
+  },
+  {
+    "owner": "motion-core",
+    "name": "motion-core"
+  },
+  {
+    "owner": "selfagency",
+    "name": "stately"
   }
 ]
