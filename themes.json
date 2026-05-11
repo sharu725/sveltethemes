@@ -325,14 +325,30 @@
   },
   {
     "owner": "yusufceng1z",
-    "name" : "sveltekit-tailwind-landing-page-template"
+    "name": "sveltekit-tailwind-landing-page-template"
   },
   {
     "owner": "yusufceng1z",
-    "name" : "sveltekit-shadcn-blog-starter"
+    "name": "sveltekit-shadcn-blog-starter"
   },
   {
     "owner": "yusufceng1z",
-    "name" : "svelte-bash"
+    "name": "svelte-bash"
+  },
+  {
+    "owner": "Jktfe",
+    "name": "tfeSvelteTemplates"
+  },
+  {
+    "owner": "stickerdaniel",
+    "name": "saas-starter"
+  },
+  {
+    "owner": "alec-c4",
+    "name": "spaceship"
+  },
+  {
+    "owner": "lachlanjs",
+    "name": "sveltekit-digital-garden"
   }
 ]
